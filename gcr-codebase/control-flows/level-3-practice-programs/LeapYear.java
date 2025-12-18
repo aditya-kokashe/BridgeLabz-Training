@@ -13,7 +13,7 @@ public class LeapYear{
 		//Check input year is according to Gregorian calendar
 		if(year >= 1582){
 			//The leap year divisible by 4 and not 100 unless it is divisible by 400
-			if(year%4==0 && year%400==0){
+			if((year%4==0 && year%100!=0) || (year%400==0)){
 				System.out.println("The year: " +year+ " is a Leap Year");
 			}else{
 			System.out.println("The year: " +year+ " is Not a Leap Year");
