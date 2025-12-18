@@ -1,5 +1,5 @@
 /*Rewrite the program 10 to find the sum until the user enters 0 or a negative number using 
-while loop and break statement*/
+while loop and break statement.*/
 
 import java.util.Scanner;
 public class SumUntilZeroOrNegative{
@@ -16,7 +16,7 @@ public class SumUntilZeroOrNegative{
             }
             total = total + number;
         }
-		
+
 		//Display the resulted output of total sum
         System.out.println("The total sum is: " + total);
         input.close();
