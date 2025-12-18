@@ -22,7 +22,7 @@ public class LargestNumberAmong3{
 		boolean firstIsLargest = false;
 		boolean secondIsLargest = false;
 		boolean thirdIsLargest = false;
-		//
+		//the logic for checking the largest number
 		if(number1 > number2 & number1 > number3){
 			firstIsLargest = true;
 		}
