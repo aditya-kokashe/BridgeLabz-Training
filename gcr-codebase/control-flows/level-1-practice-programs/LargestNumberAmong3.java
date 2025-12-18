@@ -12,17 +12,17 @@ public class LargestNumberAmong3{
 		
 		Scanner sc = new Scanner(System.in);
 		//Taking 3 numbers as input from the user 
-		System.out.println("Enter a number1: ");
+		System.out.print("Enter a number1: ");
 		int number1 = sc.nextInt();
-		System.out.println("Enter a number2: ");
+		System.out.print("Enter a number2: ");
 		int number2 = sc.nextInt();
-		System.out.println("Enter a number3: ");
+		System.out.print("Enter a number3: ");
 		int number3 = sc.nextInt();
 		//taking 3 boolean variable to check if it is largest
 		boolean firstIsLargest = false;
 		boolean secondIsLargest = false;
 		boolean thirdIsLargest = false;
-		//the logic for checking the largest number
+		//the logic for checking the Largest number
 		if(number1 > number2 & number1 > number3){
 			firstIsLargest = true;
 		}
