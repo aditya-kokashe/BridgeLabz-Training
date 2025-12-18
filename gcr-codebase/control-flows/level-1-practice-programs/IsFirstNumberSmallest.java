@@ -15,11 +15,11 @@ public class IsFirstNumberSmallest{
 		//taking boolean variable to check if first is the smallest
 		boolean isSmallest = false;
 		
-		if(number1 < number2 & number1 < number3){
-			isSmallest = true;
-		}
-		
 		//Displaying the resulted output
-		System.out.println("Is the first number the smallest? " + isSmallest);
+		if(number1 < number2 && number1 < number3){
+			System.out.println("Is the first number the smallest? YES");
+		}else{
+			System.out.println("Is the first number the smallest? NO");
+		}
 	}
 }	
