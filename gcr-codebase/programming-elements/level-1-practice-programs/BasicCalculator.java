@@ -7,14 +7,14 @@ public class BasicCalculator{
 
 		Scanner input = new Scanner(System.in);
 		System.out.print("Enter first number: ");
-		int number1 = input.nextInt();
+		double number1 = input.nextDouble();
 		System.out.print("Enter second number: ");
-		int number2 = input.nextInt();
+		double number2 = input.nextDouble();
 		//Perform calculations operations
-		int addition = number1 + number2;
-		int subtraction = number1 - number2;
-		int multiplication = number1 * number2;
-		int division = number1 / number2;
+		double addition = number1 + number2;
+		double subtraction = number1 - number2;
+		double multiplication = number1 * number2;
+		double division = number1 / number2;
 
 		//Display operations add, subtract, multiplication, division
 		System.out.println("The addition, subtraction, multiplication and division value of 2 numbers "
