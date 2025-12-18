@@ -13,6 +13,7 @@ public class IntOperation {
 		int b = sc.nextInt();
 		System.out.println("Enter c: ");
 		int c = sc.nextInt();
+		//performing integer operations 
 		int operation1 = a + b * c;
 		int operation2 = a * b + c;
 		int operation3 = c + a / b;
