@@ -18,7 +18,7 @@ class GreatestFactor{
         }
 
 
-        //Display the Greatest factor
+        //Display the Greatest factor.
         System.out.println("Greatest factor is: " + greatestFactor);
         input.close();
     }
