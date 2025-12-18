@@ -17,15 +17,17 @@ public class LargestNumberAmong3{
 		boolean secondIsLargest = false;
 		boolean thirdIsLargest = false;
 		//the logic for checking the Largest number
-		if(number1 > number2 & number1 > number3){
+		if(number1 > number2 && number1 > number3){
 			firstIsLargest = true;
 		}
-		if(number2 > number1 & number2 > number3){
+		else if(number2 > number1 && number2 > number3){
 			secondIsLargest = true;
 		}		
-		if(number3 > number1 & number3 > number2){
+		else if(number3 > number1 && number3 > number2){
 			thirdIsLargest = true;
-		}		
+		}else{
+		
+		}
 		
 		//Displaying the resulted output
 		System.out.println("Is the first number the largest? :" +firstIsLargest +"\n"+
