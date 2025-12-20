@@ -2,19 +2,19 @@
 “Its a Spring Season” otherwise prints “Not a Spring Season”.*/
 
 public class SpringSeason{
-	public int checkSeason(int month, int day){
+	public boolean checkSeason(int month, int day){
 		//Check if the input month and day lies between March 20 to June 20
 		if(month==3 && day>=20){
-			return 1;
+			return true;
 		} 
 		else if(month==4 || month==5){
-			return 1;
+			return true;
 		} 
 		else if(month==6 && day<=20){
-			return 1;
+			return true;
 		} 
 		else{
-			return -1;
+			return false;
 		}
 	}
 
@@ -27,8 +27,8 @@ public class SpringSeason{
 		
 		
 		//Display season 
-		int result = springSeason.checkSeason(month , day);
-		if(result == 1){
+		boolean isSpring = springSeason.checkSeason(month , day);
+		if(isSpring == true){
 			System.out.println("Its a Spring Season");
 		}else{
 			System.out.println("Not a Spring Season");
