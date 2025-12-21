@@ -11,7 +11,7 @@ public class PowerCalculation{
         double exponent = sc.nextDouble();
 
         double result = Math.pow(base, exponent);
-
+        
         System.out.println("Result: " + result);
     }
 }
