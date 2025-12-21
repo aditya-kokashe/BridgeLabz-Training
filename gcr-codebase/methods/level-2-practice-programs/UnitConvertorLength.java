@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class UnitConvertorLength{
 	
 	
-    //Convert yards to feet
+    //Convert yards to feet 
     public static double convertYardsToFeet(double yards){
         double yards2feet = 3;
         return yards * yards2feet;
