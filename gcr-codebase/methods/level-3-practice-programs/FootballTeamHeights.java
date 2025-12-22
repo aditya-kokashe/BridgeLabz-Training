@@ -1,6 +1,5 @@
 //Create a program to find the shortest, tallest, and mean height of players present in a football team.
 
-import java.util.Scanner;
 public class FootballTeamHeights{
     //Find sum of heights
     public static int findSum(int[] heights){
@@ -39,30 +38,24 @@ public class FootballTeamHeights{
 
 
     public static void main(String[] args){
-        Scanner input = new Scanner(System.in);
         int teamSize = 11;
         int[] heights = new int[teamSize];
-        //Take height input
+        //Generate random heights
         for(int i=0; i<heights.length; i++){
-            System.out.print("Enter height of player " + (i + 1) +": ");
-            heights[i] = input.nextInt();
-        }
-        //Display entered heights
-        System.out.println("Heights of Football Team Players: ");
-        for(int height : heights){
-            System.out.print(height + " ");
+            heights[i] = (int)(Math.random()*101)+150;
         }
         //Calculate results
+		int sum = findSum(heights);
         int shortest = findShortest(heights);
         int tallest = findTallest(heights);
         double mean = findMean(heights);
 		
 		
         //Display results
-        System.out.println("\nShortest Height: " + shortest );
+		System.out.println("\nSum of all the heights: " + sum );
+        System.out.println("Shortest Height: " + shortest );
         System.out.println("Tallest Height: " + tallest);
         System.out.println("Mean Height: " + mean);
-        input.close();
     }
 }
 
