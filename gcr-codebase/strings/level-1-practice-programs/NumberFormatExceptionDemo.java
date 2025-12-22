@@ -1,7 +1,7 @@
 //Write a program to demonstrate NumberFormatException
 
 import java.util.Scanner;
-public class NumberFormatExceptionDemo{
+public class NumberFormatException{
     //Generate NumberFormatException
     static void generateException(String text){
         //Convert non-numeric text into integer
