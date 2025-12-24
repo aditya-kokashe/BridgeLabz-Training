@@ -1,11 +1,13 @@
 import java.util.Scanner;
 public class ValidBrackets{
 	public static boolean validBrackets(String text){
+		
 		int parentheses = 0;
 		int brackets = 0;
 		int braces = 0;
 		for(int i=0; i<text.length(); i++){
 			char ch = text.charAt(i);
+			//Using switch for the logic of valid brackets
 			switch (ch){
 				case '(' :
 					parentheses++;
@@ -30,6 +32,7 @@ public class ValidBrackets{
 		return parentheses == 0 && braces == 0 && brackets == 0;
 	}
 
+
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter brackets: ");
@@ -37,6 +40,7 @@ public class ValidBrackets{
 		boolean result = validBrackets(text);
 		
 		
+		//Display the results
 		if(result){
 			System.out.println("The input string is valid");		
 		}else{
