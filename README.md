@@ -1,5 +1,5 @@
 # 📅 Week 1: Git, GitHub & Java Programming Fundamentals
----
+
 ## 🗓 Day 1 – Git & GitHub Setup  
 **Date: 15-Dec-2025**
 
@@ -147,3 +147,30 @@ Focused on understanding **Java Arrays** by completing Level 1 and Level 2 lab p
 
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)** : Day 5 - Level 1 & Level 2 Arrays Lab Practice  
 
+---
+
+## 🗓 Day 6 – Java Methods (Level 1, Level 2 & Level 3) 
+**Date: 20-Dec-2025**
+
+Focused on mastering **Java Methods** and building reusable, dynamic, and well-structured programs using best programming practices.
+
+### What I practiced today:
+- Java Methods concepts including:
+  - User Defined Methods  
+  - Using Methods Multiple Times  
+  - Making Methods More Dynamic  
+  - Recursive Methods  
+  - Static Methods  
+  - Java Standard Library Methods  
+  - `java.lang.Math` class  
+
+### Best Programming Practices Followed:
+- Used variables for all fixed values, user inputs, and results  
+- Followed proper naming conventions for variables  
+
+### Work Done:
+- Completed **Level 1, Level 2 & Level 3 Lab Practice Assignments**
+- Implemented and tested all programs locally
+- Committed and pushed all method-based programs to GitHub
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)** : Day 6 - Level 1, Level 2 & Level 3 Java Methods Lab Practice
