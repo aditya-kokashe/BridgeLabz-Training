@@ -52,7 +52,7 @@ Continued strengthening my understanding of **Git workflow** and started working
 - Practiced adding, committing, and pushing Java files to GitHub
 - Learned basic Java syntax and explored **Programming Fundamentals**
 
-🔗 **[Code Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)** : Day 2 – Basic Java Programs  
+🔗 **[Code Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)** : Basic Java Programs  
 
 ---
 
@@ -80,14 +80,14 @@ Focused on building a strong foundation in **Java Programming Fundamentals** by 
   double height = input.nextDouble();
   double totalDistance = distanceFromToVia + distanceViaToFinalCity;
 
-🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)** : Day 3 - Java Programming Elements  
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)** : Java Programming Elements  
 
 ---
 
 ## 🗓 Day 4 – Control Flow & Lab Practice (Level 1 & Level 2)  
 **Date: 18-Dec-2025**
 
-Focused on mastering **Java Control Flow concepts** by completing Level 1 and Level 2 lab practice problems while following professional programming standards.
+Focused on learning **Java Control Flow concepts** by completing Level 1 and Level 2 lab practice problems while following professional programming standards.
 
 ### What I practiced today:
 - Java Control Flow concepts including:
@@ -109,7 +109,7 @@ Focused on mastering **Java Control Flow concepts** by completing Level 1 and Le
 - Completed **Level 1 & Level 2 Control Flow Lab Practice Assignments**
 - Tested, committed, and pushed all programs to GitHub
 
-🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)** : Day 4 - Control Flow Practices
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)** : Control Flow Practices
 
 ---
 
@@ -139,14 +139,14 @@ Focused on understanding **Java Arrays** by completing Level 1 and Level 2 lab p
 - Completed **Level 1 & Level 2 Lab Practice Assignments**
 - Tested, committed, and pushed all programs to GitHub
 
-🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)** : Day 5 - Level 1 & Level 2 Arrays Lab Practice  
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)** : Level 1 & Level 2 Arrays Lab Practice  
 
 ---
 
 ## 🗓 Day 6 – Java Methods (Level 1, Level 2 & Level 3) 
 **Date: 20-Dec-2025**
 
-Focused on mastering **Java Methods** and building reusable, dynamic, and well-structured programs using best programming practices.
+Focused on understanding **Java Methods** and building reusable, dynamic, and well-structured programs using best programming practices.
 
 ### What I practiced today:
 - Java Methods concepts including:
@@ -167,7 +167,7 @@ Focused on mastering **Java Methods** and building reusable, dynamic, and well-s
 - Implemented and tested all programs locally
 - Committed and pushed all method-based programs to GitHub
 
-🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)** : Day 6 - Level 1, Level 2 & Level 3 Java Methods Lab Practice
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)** : Level 1, Level 2 & Level 3 Java Methods Lab Practice
 
 ---
 
@@ -176,7 +176,7 @@ Focused on mastering **Java Methods** and building reusable, dynamic, and well-s
 ## 🗓 Day 1 – Java Strings & Exception Handling (Level 1, 2 & 3 Labs)  
 **Date: 22-Dec-2025**
 
-Focused on mastering **Java Strings** and **Exception Handling** by completing Level 1, Level 2, and Level 3 lab practice problems while following professional coding standards.
+Focused on strengthening **Java Strings** and **Exception Handling** by completing Level 1, Level 2, and Level 3 lab practice problems while following professional coding standards.
 
 ### What I practiced today:
 - Java String Concepts:
@@ -201,4 +201,33 @@ Focused on mastering **Java Strings** and **Exception Handling** by completing L
 - Inserted all programs into submission documents
 - Tested, committed, and pushed all programs to GitHub
 
-🔗 **A[ssignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)** : Day 1 - Java String Lab Practices
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)** : Java String Lab Practices
+
+---
+
+## 🗓 Day 2 – Built-in Functions & String Handling  
+**Date: 23-Dec-2025**
+
+Focused on understanding **Java String Handling** and learning the practical use of **built-in functions** to build clean and efficient logic.
+
+### What I practiced today:
+- Handling Strings and common String functions  
+- String manipulation techniques  
+- Functions:
+  - Parameter passing  
+  - Return values  
+- Practical usage of **Java built-in functions** to solve logic-based problems  
+- Implemented extra practice programs based on class material  
+
+### Outcome:
+- Gained clarity on how to use common built-in functions effectively  
+- Learned to build clean logic using reusable methods  
+- Improved problem-solving efficiency using Java standard library functions  
+
+### Work Done:
+- Completed **EXTRAS – Java String Handling** material  
+- Completed **EXTRAS – Built-in Function Practice Assignment**  
+- Tested, committed, and pushed all extra practice programs to GitHub
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/string-handling)** : Java String Handling (Extras)  
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/built-in-function-problems)** : Built-in Function Practice (Extras)
