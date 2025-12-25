@@ -97,10 +97,7 @@ Focused on mastering **Java Control Flow concepts** by completing Level 1 and Le
 - Iteration statements:
   - `for` loop  
   - `while` loop  
-  - `do-while` loop  
-- Implemented:
-  - `System.err()` for error messages  
-  - `System.exit()` for program termination  
+  - `do-while` loop 
 
 ### Best Programming Practices Followed:
 - Used variables for all fixed values, user inputs, and results  
@@ -130,9 +127,6 @@ Focused on understanding **Java Arrays** by completing Level 1 and Level 2 lab p
 - Multi-Dimensional Arrays:
   - 2D Arrays (Matrix)
   - Accessing and finding size of multi-dimensional arrays  
-- Implemented:
-  - `System.err()` for error messages  
-  - `System.exit()` for program termination  
 
 ### Best Programming Practices Followed:
 - Used variables for all fixed values, user inputs, and results  
@@ -174,3 +168,37 @@ Focused on mastering **Java Methods** and building reusable, dynamic, and well-s
 - Committed and pushed all method-based programs to GitHub
 
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)** : Day 6 - Level 1, Level 2 & Level 3 Java Methods Lab Practice
+
+---
+
+# 📅 Week 2: Java Strings, Methods & Exception Handling
+
+## 🗓 Day 1 – Java Strings & Exception Handling (Level 1, 2 & 3 Labs)  
+**Date: 22-Dec-2025**
+
+Focused on mastering **Java Strings** and **Exception Handling** by completing Level 1, Level 2, and Level 3 lab practice problems while following professional coding standards.
+
+### What I practiced today:
+- Java String Concepts:
+  - Creating and manipulating strings  
+  - Using escape sequences (`\`)  
+  - String arrays  
+  - Built-in `String` class methods  
+  - ASCII character codes  
+- Java Exception Handling:
+  - Types of exceptions  
+  - Checked exceptions  
+  - Unchecked exceptions (`RuntimeException`)  
+
+### Best Programming Practices Followed:
+- Used variables for all fixed values, user inputs, and results  
+- Implemented logic using methods instead of writing everything inside `main()`  
+- Followed proper naming conventions for variables and methods  
+- Used meaningful program and class names   
+
+### Work Done:
+- Completed **Java String Lab Practices (Level 1, 2 & 3)**
+- Inserted all programs into submission documents
+- Tested, committed, and pushed all programs to GitHub
+
+🔗 **A[ssignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)** : Day 1 - Java String Lab Practices
