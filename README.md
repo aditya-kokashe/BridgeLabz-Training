@@ -56,44 +56,94 @@ Continued strengthening my understanding of **Git workflow** and started working
 
 ---
 
-## 🗓 Day 3 – Java Programming Elements  
+## 🗓 Day 3 – Programming Fundamentals Lab Practice (Level 1 & Level 2)  
 **Date: 17-Dec-2025**
 
-Focused on understanding the **core programming elements of Java** and strengthening the fundamentals required to build logical and structured programs.
+Focused on building a strong foundation in **Java Programming Fundamentals** by completing Level 1 and Level 2 lab practice problems following best programming standards.
 
-### What I did today:
-- Studied **Java Programming Elements**, including:
-  - Variables and data types  
-  - Operators  
-  - Basic input and output handling  
-- Referred to the official training material shared in class
-- Solved practice assignments based on programming elements
-- Implemented and tested programs locally
-- Committed and pushed all solutions to the GitHub repository
+### What I practiced today:
+- Java Programming Fundamentals:
+  - Java Comments  
+  - Basic Data Types  
+  - Variables  
+  - Arithmetic Operators  
+  - Operator Precedence  
+  - Type Conversion  
+  - Taking User Input in Programs  
+
+### Best Programming Practices Followed:
+- Avoided hard-coded values wherever possible  
+- Followed proper naming conventions  
+- Practiced meaningful variable naming, for example:
+  ```java
+  String name = "Eric";
+  double height = input.nextDouble();
+  double totalDistance = distanceFromToVia + distanceViaToFinalCity;
 
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)** : Day 3 - Java Programming Elements  
 
 ---
 
-## 🗓 Day 4 – Control Flow & Logical Constructs  
+## 🗓 Day 4 – Control Flow & Lab Practice (Level 1 & Level 2)  
 **Date: 18-Dec-2025**
 
-Focused on understanding **Java control flow statements** and applying logical thinking to solve problem-based programs.
+Focused on mastering **Java Control Flow concepts** by completing Level 1 and Level 2 lab practice problems while following professional programming standards.
 
-### What I learned and practiced today:
-- Studied **Java Control Flow concepts**, including:
+### What I practiced today:
+- Java Control Flow concepts including:
   - `if`, `if-else`, nested `if-else`
   - `switch` statements  
   - Ternary operator  
-- Practiced **iteration statements**:
+- Iteration statements:
   - `for` loop  
   - `while` loop  
   - `do-while` loop  
-- Learned the use of:
-  - `break`
-  - `continue`
-- Referred to training guidelines and official class material
-- Completed and submitted **Control Flow Practice Assignment**
-- Committed and pushed all solutions to GitHub
+- Implemented:
+  - `System.err()` for error messages  
+  - `System.exit()` for program termination  
+
+### Best Programming Practices Followed:
+- Used variables for all fixed values, user inputs, and results  
+- Avoided hard-coded values wherever possible  
+- Validated all user inputs and handled invalid cases  
+- Used loop conditions and array length where applicable  
+
+### Work Done:
+- Completed **Level 1 & Level 2 Control Flow Lab Practice Assignments**
+- Tested, committed, and pushed all programs to GitHub
 
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)** : Day 4 - Control Flow Practices
+
+---
+
+## 🗓 Day 5 – Arrays & Lab Practice (Level 1 & Level 2)  
+**Date: 19-Dec-2025**
+
+Focused on understanding **Java Arrays** by completing Level 1 and Level 2 lab practice problems while following professional programming standards.
+
+### What I practiced today:
+- Java Arrays concepts including:
+  - Creating and accessing arrays  
+  - Traversing arrays using `for` loops  
+  - Modifying array elements  
+  - Using `length` property of arrays  
+- Multi-Dimensional Arrays:
+  - 2D Arrays (Matrix)
+  - Accessing and finding size of multi-dimensional arrays  
+- Implemented:
+  - `System.err()` for error messages  
+  - `System.exit()` for program termination  
+
+### Best Programming Practices Followed:
+- Used variables for all fixed values, user inputs, and results  
+- Avoided hard-coded values wherever possible  
+- Followed proper naming conventions  
+- Validated user inputs and handled invalid cases  
+- Used array `length` property in loops  
+
+### Work Done:
+- Completed **Level 1 & Level 2 Lab Practice Assignments**
+- Tested, committed, and pushed all programs to GitHub
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)** : Day 5 - Level 1 & Level 2 Arrays Lab Practice  
+
