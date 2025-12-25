@@ -7,6 +7,7 @@
 - Created and set up a **GitHub repository**
 - Designed the project folder structure for Java practice:
 
+```text
 BridgeLabz-Training/
 ├── core-java-practice/
 │   ├── gcr-codebase/
@@ -14,12 +15,14 @@ BridgeLabz-Training/
 │   │   ├── control-flow/
 │   │   ├── extra/
 │   │   ├── methods/
-│   │   ├── programming elements/
-│   │   ├── programming prerequisites/
+│   │   ├── programming-elements/
+│   │   ├── programming-prerequisites/
 │   │   └── strings/
 │   ├── leet-code-codebase/
 │   └── scenario-based-codebase/
 └── README.md
+```
+
 
 
 ### Git Commands Learned:
