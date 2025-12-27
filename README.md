@@ -235,6 +235,40 @@ Focused on understanding **Java String Handling** and learning the practical use
 
 ---
 
+## 🗓 Day 3 – Scenario-Based Java Problem Solving  
+**Date: 24-Dec-2025**
+
+Focused on solving **real-world, scenario-based Java problems** to strengthen Core Java fundamentals, logical thinking, and clean coding practices.
+
+### What I practiced today:
+- Used core Java concepts including:
+  - Variables, literals, and primitive data types  
+  - User input using `Scanner`  
+  - Operators for calculations  
+  - Conditional logic using `if`, `else`, ternary, and `switch`  
+  - Loops (`for`, `while`, `do-while`, `for-each`)  
+  - Control flow using `break` and `continue`  
+
+### Scenario-Based Problems Implemented:
+- **The Coffee Counter Chronicles**  
+  - Took coffee type input using `switch`  
+  - Accepted quantity  
+  - Calculated total bill and GST  
+  - Used `while` loop to serve multiple customers until “exit”  
+- **Maya’s BMI Fitness Tracker**  
+  - Calculated BMI using height and weight  
+  - Displayed BMI category using `if-else` conditions  
+  - Followed clean and readable coding standards  
+
+### Work Done:
+- Implemented, tested, and validated programs with multiple inputs  
+- Organized all solutions into the **scenario-based-codebase** folder  
+- Committed and pushed all programs to GitHub
+
+🔗 **[Folder Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)** : Scenario-Based Codebase
+
+---
+
 ## 🗓 Day 4 – Object-oriented Programming Fundamental 
 **Date: 26-Dec-2025**
 
