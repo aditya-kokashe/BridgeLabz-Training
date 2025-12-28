@@ -34,7 +34,7 @@ BridgeLabz-Training/
 - `git push`
 - `git rebase`
 
-### Key Takeaway:
+### 📌 Key Takeaway:
 Understood the importance of version control and how GitHub helps in tracking changes and managing code efficiently.
 
 ---
@@ -54,6 +54,9 @@ Continued strengthening my understanding of **Git workflow** and started working
 - Learned basic Java syntax and explored **Programming Fundamentals**
 
 🔗 **[Code Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)** : Basic Java Programs  
+
+### 📌 Key Takeaway:
+Gained confidence in using Git for daily development tasks and built a strong foundation in Java basics, including syntax, structure, and input/output operations.
 
 ---
 
@@ -83,6 +86,9 @@ Focused on building a strong foundation in **Java Programming Fundamentals** by 
 
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)** : Java Programming Elements  
 
+### 📌 Key Takeaway:
+Built a strong foundation in Java programming fundamentals by understanding core concepts such as data types, variables, operators, type conversion, and user input, while applying clean coding practices to write readable and maintainable programs.
+
 ---
 
 ## 🗓 Day 4 – Control Flow & Lab Practice (Level 1 & Level 2)  
@@ -111,6 +117,9 @@ Focused on learning **Java Control Flow concepts** by completing Level 1 and Lev
 - Tested, committed, and pushed all programs to GitHub
 
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)** : Control Flow Practices
+
+### 📌 Key Takeaway:
+Developed a strong understanding of decision-making and looping constructs in Java, and learned how to write efficient, readable, and structured programs using proper control flow techniques.
 
 ---
 
@@ -142,6 +151,9 @@ Focused on understanding **Java Arrays** by completing Level 1 and Level 2 lab p
 
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)** : Level 1 & Level 2 Arrays Lab Practice  
 
+### 📌 Key Takeaway:
+Developed a strong understanding of single and multi-dimensional arrays in Java, and learned how to write efficient, readable, and maintainable code by following best programming practices.
+
 ---
 
 ## 🗓 Day 6 – Java Methods (Level 1, Level 2 & Level 3) 
@@ -169,6 +181,9 @@ Focused on understanding **Java Methods** and building reusable, dynamic, and we
 - Committed and pushed all method-based programs to GitHub
 
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)** : Level 1, Level 2 & Level 3 Java Methods Lab Practice
+
+### 📌 Key Takeaway:
+Learned how to design reusable and modular Java programs using methods, improving code readability, maintainability, and overall program structure.
 
 ---
 
@@ -204,6 +219,9 @@ Focused on strengthening **Java Strings** and **Exception Handling** by completi
 
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)** : Java String Lab Practices
 
+### 📌 Key Takeaway:
+Improved understanding of Java string manipulation and exception handling concepts, and learned how to write robust, well-structured programs using proper error handling and clean coding practices.
+
 ---
 
 ## 🗓 Day 2 – Built-in Functions & String Handling  
@@ -232,6 +250,9 @@ Focused on understanding **Java String Handling** and learning the practical use
 
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/string-handling)** : Java String Handling (Extras)  
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/built-in-function-problems)** : Built-in Function Practice (Extras)
+
+### 📌 Key Takeaway:
+Developed a stronger understanding of Java string handling and built-in functions, enabling the creation of efficient, reusable, and well-structured logic for problem-solving.
 
 ---
 
@@ -266,6 +287,9 @@ Focused on solving **real-world, scenario-based Java problems** to strengthen Co
 - Committed and pushed all programs to GitHub
 
 🔗 **[Folder Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)** : Scenario-Based Codebase
+
+### 📌 Key Takeaway:
+Improved problem-solving skills by applying core Java concepts to real-world scenarios, reinforcing logical thinking and the importance of writing clean, maintainable code.
 
 ---
 
@@ -302,3 +326,48 @@ Focused on strengthening **Object-oriented Programming Fundamental** by understa
 - Tested, committed, and pushed all programs to GitHub
 
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)** : Object-oriented Programming Fundamental
+
+### 📌 Key Takeaway:
+Developed a solid understanding of Java OOPS fundamentals by applying classes, objects, constructors, and methods to design clean, modular, and reusable programs.
+
+---
+
+## 🗓 Day 5 – Java Constructors, Instance vs Class Variables  
+**Date: 27-Dec-2025**
+
+Focused on strengthening **Java Constructors and Instance vs Class Variables** by understanding object initialization, memory behavior of variables, and class design principles while following professional coding standards.
+
+### What I practiced today:
+- Java Constructors:
+  - Purpose and usage of constructors  
+  - Default constructor  
+  - Parameterized constructor  
+  - Constructor overloading  
+  - Use of `this` keyword
+    
+- Instance vs Class Variables:
+  - Instance variables and their memory allocation  
+  - Class (static) variables and shared memory behavior  
+  - Difference between instance and static members
+    
+- Object Initialization:
+  - Initializing objects using constructors  
+  - Accessing variables and methods using objects  
+
+### Best Programming Practices Followed:
+- Used variables for all fixed values, user inputs, and results  
+- Implemented logic using methods instead of writing everything inside `main()`  
+- Followed proper naming conventions for variables and methods  
+- Used meaningful program and class names  
+
+### Work Done:
+- Completed **Java Constructors & Instance vs Class Variables** programs  
+- Inserted all programs into submission documents  
+- Tested, committed, and pushed all programs to GitHub  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)** : Java Constructors, Instance vs Class Variables
+
+### 📌 Key Takeaway:
+Understood how constructors and static vs instance variables actually behave in memory and how they are used in real Java programs.
+
+---
