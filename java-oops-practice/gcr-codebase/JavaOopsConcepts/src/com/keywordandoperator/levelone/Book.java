@@ -37,7 +37,7 @@ public class Book {
 	           System.out.println("The object is not an instance of the Book class.");
 	       }
 	   }
-	   
+	    
 	   // Getters for instance variables (optional, but recommended for encapsulation)
 	   public String getTitle() {
 	       return title;
