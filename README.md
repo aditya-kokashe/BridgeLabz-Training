@@ -248,7 +248,7 @@ Focused on understanding **Java String Handling** and learning the practical use
 - Completed **EXTRAS – Built-in Function Practice Assignment**  
 - Tested, committed, and pushed all extra practice programs to GitHub
 
-🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/string-handling)** : Java String Handling (Extras)  
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/string-handling)** : Java String Handling (Extras)   
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/built-in-function-problems)** : Built-in Function Practice (Extras)
 
 ### 📌 Key Takeaway:
@@ -325,8 +325,8 @@ Focused on strengthening **Object-oriented Programming Fundamental** by understa
 - Inserted all programs into submission documents  
 - Tested, committed, and pushed all programs to GitHub
 
-🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)** : Object-oriented Programming Fundamental
-🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-1)** : Daily Leetcode Problems
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)** : Object-oriented Programming Fundamental      
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-1)** : Daily Leetcode Problems     
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-problems-day-2)** : Scenario based problems
 
 ### 📌 Key Takeaway:
@@ -367,7 +367,7 @@ Focused on strengthening **Java Constructors and Instance vs Class Variables** b
 - Inserted all programs into submission documents  
 - Tested, committed, and pushed all programs to GitHub  
 
-🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)** : Java Constructors, Instance vs Class Variables
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)** : Java Constructors, Instance vs Class Variables      
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-2)** : Daily Leetcode Problems
 
 ### 📌 Key Takeaway:
@@ -436,7 +436,7 @@ Focused on strengthening **Java keyword concepts and object handling techniques*
 - Inserted all programs into submission documents  
 - Tested, committed, and pushed all programs to GitHub  
 
-🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywordandoperator/levelone)** : this, static, final keywords & instanceof
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywordandoperator/levelone)** : this, static, final keywords & instanceof     
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-problems-day-3)** : Scenario based problems
 
 ### 📌 Key Takeaway:
