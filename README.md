@@ -326,6 +326,8 @@ Focused on strengthening **Object-oriented Programming Fundamental** by understa
 - Tested, committed, and pushed all programs to GitHub
 
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)** : Object-oriented Programming Fundamental
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-1)** : Daily Leetcode Problems
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-problems-day-2)** : Scenario based problems
 
 ### 📌 Key Takeaway:
 Developed a solid understanding of Java OOPS fundamentals by applying classes, objects, constructors, and methods to design clean, modular, and reusable programs.
@@ -366,8 +368,77 @@ Focused on strengthening **Java Constructors and Instance vs Class Variables** b
 - Tested, committed, and pushed all programs to GitHub  
 
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)** : Java Constructors, Instance vs Class Variables
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-2)** : Daily Leetcode Problems
 
 ### 📌 Key Takeaway:
 Understood how constructors and static vs instance variables actually behave in memory and how they are used in real Java programs.
 
 ---
+
+## 🗓 Day 6 – LeetCode Problem Solving & Logic Building  
+**Date: 28-Dec-2025**
+
+Focused on strengthening **problem-solving skills and logical thinking** by solving LeetCode programming problems while following professional coding standards.
+
+### What I practiced today:  
+- Loop-based logic implementation  
+- Conditional checks and edge-case handling  
+- Writing optimized and readable solutions  
+- Dry-running test cases for correctness  
+
+### Best Programming Practices Followed:
+- Used meaningful variable and method names  
+- Followed proper indentation and formatting  
+- Tested programs with multiple test cases  
+
+### Work Done:
+- Solved **5 LeetCode problems**  
+- Practiced logic building and algorithmic thinking  
+- Tested, committed, and pushed all solutions to GitHub  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-3)** : LeetCode Problem Solving
+
+### 📌 Key Takeaway:
+Improved my confidence in solving real coding interview problems by practicing logical thinking, edge-case handling, and writing clean Java solutions.
+
+---
+
+# Week 3: Java Keywords & Object Handling
+
+## 🗓 Day 1 – this, static, final Keywords & instanceof Operator  
+**Date: 29-Dec-2025**
+
+Focused on strengthening **Java keyword concepts and object handling techniques** by understanding and implementing `this`, `static`, `final` keywords and the `instanceof` operator along with scenario-based programming while following professional coding standards.
+
+### What I practiced today:
+- Java Keywords:
+  - `this` keyword and its use cases  
+  - `static` variables and methods  
+  - `final` variables, methods, and classes  
+
+- Object Handling:
+  - Understanding the `instanceof` operator  
+  - Checking object types at runtime  
+
+- Scenario Based Logic:
+  - Implementing real-world logic using OOPS concepts  
+  - Applying conditions and validations  
+
+### Best Programming Practices Followed:
+- Used variables for all fixed values, user inputs, and results  
+- Implemented logic using methods instead of writing everything inside `main()`  
+- Followed proper naming conventions for variables and methods  
+- Used meaningful program and class names  
+
+### Work Done:
+- Completed **this, static, final keywords & instanceof** programs  
+- Implemented **5 scenario-based programming problems**  
+- Inserted all programs into submission documents  
+- Tested, committed, and pushed all programs to GitHub  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywordandoperator/levelone)** : this, static, final keywords & instanceof
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-problems-day-3)** : Scenario based problems
+
+### 📌 Key Takeaway:
+Developed a clear understanding of how Java keywords control object behavior, memory usage, and type checking while applying them in real-world scenario-based programs.
+
