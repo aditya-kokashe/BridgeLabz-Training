@@ -265,3 +265,51 @@ Focused on solving **real-world, scenario-based Java problems** to strengthen Co
 - Committed and pushed all programs to GitHub
 
 🔗 **[Folder Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)** : Scenario-Based Codebase
+
+---
+
+## 🗓 Day 4 – Scenario-Based Java Problem Solving  
+**Date: 26-Dec-2025**
+
+Focused on strengthening **Java logical thinking and real-world programming skills** by implementing scenario-based problems using control flow statements and loops while following professional coding standards.
+
+### 1️⃣ Election Booth Manager
+**Scenario:**  
+Design a polling booth system to manage voter eligibility and vote recording.
+**Features Implemented:**
+- Takes voter age as input  
+- Uses `if` condition to check eligibility (age ≥ 18)  
+- Records vote for candidates (1, 2, or 3)  
+- Allows multiple voters using loop  
+- Exits on special code  
+
+### 2️⃣ Metro Smart Card Fare Deduction 
+**Scenario:**  
+A fare deduction system for Delhi Metro based on travel distance.
+**Features Implemented:**
+- Accepts distance from the user  
+- Calculates fare using ternary operator  
+- Deducts fare from smart card balance  
+- Loops until balance is exhausted or user exits  
+
+### 3️⃣ Raj’s Result Generator 
+**Scenario:**  
+A result generation system for a coaching institute.
+**Features Implemented:**
+- Inputs marks of 5 subjects  
+- Calculates average marks  
+- Assigns grades using `switch` case  
+- Uses `for` loop to iterate through subjects  
+
+### Work Done:
+- Implemented, tested, and validated programs with multiple inputs  
+- Organized all solutions into the **scenario-based-codebase** folder  
+- Committed and pushed all programs to GitHub
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-problems-day-2)** : Scenario based problems
+
+### 📌 Key Takeaway:
+Improved my real-world problem-solving skills by implementing logical flow, loops, conditions, and grading systems in Java programs.
+
+---
+
