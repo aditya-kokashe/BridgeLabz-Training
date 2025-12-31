@@ -265,3 +265,146 @@ Focused on solving **real-world, scenario-based Java problems** to strengthen Co
 - Committed and pushed all programs to GitHub
 
 🔗 **[Folder Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)** : Scenario-Based Codebase
+
+---
+
+## 🗓 Day 4 – Scenario-Based Java Problem Solving  
+**Date: 26-Dec-2025**
+
+Focused on strengthening **Java logical thinking and real-world programming skills** by implementing scenario-based problems using control flow statements and loops while following professional coding standards.
+
+### 1️⃣ Election Booth Manager
+**Scenario:**  
+Design a polling booth system to manage voter eligibility and vote recording.
+**Features Implemented:**
+- Takes voter age as input  
+- Uses `if` condition to check eligibility (age ≥ 18)  
+- Records vote for candidates (1, 2, or 3)  
+- Allows multiple voters using loop  
+- Exits on special code  
+
+### 2️⃣ Metro Smart Card Fare Deduction 
+**Scenario:**  
+A fare deduction system for Delhi Metro based on travel distance.
+**Features Implemented:**
+- Accepts distance from the user  
+- Calculates fare using ternary operator  
+- Deducts fare from smart card balance  
+- Loops until balance is exhausted or user exits  
+
+### 3️⃣ Raj’s Result Generator 
+**Scenario:**  
+A result generation system for a coaching institute.
+**Features Implemented:**
+- Inputs marks of 5 subjects  
+- Calculates average marks  
+- Assigns grades using `switch` case  
+- Uses `for` loop to iterate through subjects  
+
+### Work Done:
+- Implemented, tested, and validated programs with multiple inputs  
+- Organized all solutions into the **scenario-based-codebase** folder  
+- Committed and pushed all programs to GitHub
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-problems-day-2)** : Scenario based problems
+
+### 📌 Key Takeaway:
+Improved my real-world problem-solving skills by implementing logical flow, loops, conditions, and grading systems in Java programs.
+
+---
+
+# Week 3: Scenario-Based Java Problem Solving 
+
+## 🗓 Day 1 – Scenario-Based Java Problem Solving  
+**Date: 29-Dec-2025**
+
+Focused on solving **real-world, scenario-based Java problems** to strengthen Core Java fundamentals, logical thinking, and clean coding practices.
+
+### 1️⃣ Parking Lot Gate System   
+Develop a smart parking system.  
+**Features Implemented:**  
+● Used switch-case for the menu.   
+● while loop to continue until the parking lot is full or the user exits.   
+
+### 2️⃣ The Number Guessing Game   
+A game asks the player to guess a number between 1 and 100.   
+**Features Implemented:**   
+● Give hints like "Too high" or "Too low".   
+● Count attempts and exit after 5 wrong tries.   
+
+### 3️⃣ Shopkeeper’s Discount Dashboard    
+A shopkeeper gives discounts based on total bill:   
+**Features Implemented:**   
+● Input item prices in a for-loop.   
+● Use if-else for discount logic.   
+
+### 4️⃣ School Bus Attendance System    
+Track 10 students' presence.   
+**Features Implemented:**   
+● Ask "Present or Absent?"   
+● Show total present and absent counts.   
+
+### 5️⃣ Phone Recharge Simulator    
+Take the user's mobile operator and amount.   
+**Features Implemented:**   
+● Allowed repeated recharges.   
+● Show balance after each recharge.   
+
+### Work Done:
+- Implemented, tested, and validated programs with multiple inputs  
+- Organized all solutions into the **scenario-based-codebase** folder  
+- Committed and pushed all programs to GitHub   
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-problems-day-3)** : Scenario based problems
+
+### 📌 Key Takeaway:
+Improved my scenario based problem-solving skills by implementing loops, and conditions in Java programs.   
+
+---
+
+## 🗓 Day 2 – Scenario-Based Java Problem Solving  
+**Date: 30-Dec-2025**
+
+Focused on strengthening **Java logical thinking and real-world programming skills** by implementing scenario-based problems using control flow statements and loops while following professional coding standards.
+
+### 1️⃣ Temperature Logger    
+Record temperatures over 7 days.   
+**Features Implemented:**   
+● Find average and max temperature.   
+● Use if for comparisons. Maintain readable naming and modular code blocks.   
+
+### 2️⃣ Train Reservation Queue    
+Simulate a basic ticket booking system.   
+**Features Implemented:**   
+● Allow multiple bookings using while-loop.   
+● Stop booking once seats reach zero (break).   
+
+### 3️⃣ Sandeep’s Fitness Challenge Tracker    
+Each day Sandeep completes a number of push-ups.   
+**Features Implemented:**   
+● Use for-each to calculate total and average.   
+● Use continue to skip rest days.   
+
+### 4️⃣ Movie Ticket Booking App    
+Ask users for movie type, seat type (gold/silver), and snacks.   
+**Features Implemented:**   
+● Loop through multiple customers.   
+● Clean structure and helpful variable names.   
+
+### 5️⃣ Rohan’s Library Reminder App    
+Rohan wants a fine calculator:   
+**Features Implemented:**   
+● If returned late, calculate fine: ₹5/day.   
+● Repeat for 5 books using for-loop.   
+
+### Work Done:
+- Implemented, tested, and validated programs with multiple inputs  
+- Organized all solutions into the **scenario-based-codebase** folder  
+- Committed and pushed all programs to GitHub  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-problems-day-4)** : Scenario based problems
+
+### 📌 Key Takeaway:
+Improved my scenario based problem-solving skills by implementing loops, and conditions in Java programs.   
+
+---
