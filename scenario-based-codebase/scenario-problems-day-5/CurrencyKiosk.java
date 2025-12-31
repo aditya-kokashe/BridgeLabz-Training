@@ -29,19 +29,19 @@ public class CurrencyKiosk{
 			//Using switch for currency rates 
 			switch(targetCurrency){
 				case "dollar" -> {
-					double convertDollar = amount*89.85;	// 1 Dollar = 89.85 INR
+					double convertDollar = amount*0.011;	// 1 INR = 0.011 Dollar
 					result = convertDollar;
 					currency = "Dollar";
 					break;
 				}		
 				case "yen" -> {
-					double convertYen = amount*0.57;		// 1 Yen = 0.57 INR
+					double convertYen = amount*1.74;		// 1 INR = 1.74 Yen
 					result = convertYen;
 					currency = "Yen";
 					break;
 				}
 				case "pound" -> {
-					double convertPound = amount*120.66;	// 1 Pound Sterling = 120.66 INR
+					double convertPound = amount*0.0083;	// 1 INR = 0.0083 Pound Sterling
 					result = convertPound;
 					currency = "Pound";
 					break;
