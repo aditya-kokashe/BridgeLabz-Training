@@ -275,7 +275,7 @@ Focused on strengthening **Java logical thinking and real-world programming skil
 
 ### 1️⃣ Election Booth Manager
 **Scenario:**  
-Design a polling booth system to manage voter eligibility and vote recording.
+Design a polling booth system to manage voter eligibility and vote recording.    
 **Features Implemented:**
 - Takes voter age as input  
 - Uses `if` condition to check eligibility (age ≥ 18)  
@@ -285,7 +285,7 @@ Design a polling booth system to manage voter eligibility and vote recording.
 
 ### 2️⃣ Metro Smart Card Fare Deduction 
 **Scenario:**  
-A fare deduction system for Delhi Metro based on travel distance.
+A fare deduction system for Delhi Metro based on travel distance.     
 **Features Implemented:**
 - Accepts distance from the user  
 - Calculates fare using ternary operator  
@@ -294,7 +294,7 @@ A fare deduction system for Delhi Metro based on travel distance.
 
 ### 3️⃣ Raj’s Result Generator 
 **Scenario:**  
-A result generation system for a coaching institute.
+A result generation system for a coaching institute.     
 **Features Implemented:**
 - Inputs marks of 5 subjects  
 - Calculates average marks  
@@ -403,6 +403,53 @@ Rohan wants a fine calculator:
 - Committed and pushed all programs to GitHub  
 
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-problems-day-4)** : Scenario based problems
+
+### 📌 Key Takeaway:
+Improved my scenario based problem-solving skills by implementing loops, and conditions in Java programs.   
+
+---
+
+## 🗓 Day 3 – Scenario-Based Java Problem Solving  
+**Date: 31-Dec-2025**
+
+Implementing **scenario-based problems** using control flow statements and loops while ensuring professional coding standards.
+
+### 1️⃣ Digital Watch Simulation   
+Simulate a 24-hour watch:    
+**Features Implemented:**     
+● Print hours and minutes in a nested for-loop.   
+● Use a break to stop at 13:00 manually (simulate power cut).     
+
+### 2️⃣  Online Quiz Application     
+Ask 5 questions (MCQs) from a user.     
+**Features Implemented:**   
+● Record score.   
+● Switch for answer checking. Apply clear indentation and structured layout.   
+
+### 3️⃣ Currency Exchange Kiosk 
+Design a currency converter:    
+**Features Implemented:**   
+● Use a switch to apply the correct rate.    
+● Ask if the user wants another conversion (do-while).   
+
+### 4️⃣  Bus Route Distance Tracker   
+Each stop adds distance.    
+**Features Implemented:**   
+● Use a while-loop with a total distance tracker.     
+● Exit on user confirmation.    
+
+### 5️⃣ Festival Lucky Draw    
+At Diwali mela, each visitor draws a number.    
+**Features Implemented:**   
+● Use if, modulus, and loop for multiple visitors.     
+● continue if input is invalid.     
+
+### Work Done:
+- Implemented, tested, and validated programs with multiple inputs  
+- Organized all solutions into the **scenario-based-codebase** folder  
+- Committed and pushed all programs to GitHub  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-problems-day-5)** : Scenario based problems
 
 ### 📌 Key Takeaway:
 Improved my scenario based problem-solving skills by implementing loops, and conditions in Java programs.   
