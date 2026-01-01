@@ -442,3 +442,136 @@ Focused on strengthening **Java keyword concepts and object handling techniques*
 ### 📌 Key Takeaway:
 Developed a clear understanding of how Java keywords control object behavior, memory usage, and type checking while applying them in real-world scenario-based programs.
 
+---
+
+## 🗓 Day 2 – Object Modeling, Class Diagram & Scenario Based Programs  
+**Date: 30-Dec-2025**
+
+Focused on strengthening **Object Modeling and Scenario Based Programming** by designing real-world Java programs and implementing control flow logic while following professional coding standards.
+
+### What I practiced today:
+- Object Modeling Concepts:
+  - Understanding object modeling  
+  - Designing class structure  
+  - Learning class diagrams and object relationships  
+
+- Scenario Based Programming:
+  - Implementing real-world logic using loops and conditions  
+  - Applying `if`, `switch`, `for`, `while`, `break`, and `continue`  
+
+### Best Programming Practices Followed:
+- Used meaningful variable and method names  
+- Maintained clean code structure and proper indentation  
+- Used modular and readable code blocks  
+- Avoided hard-coding values  
+
+### Work Done:
+- Completed **Object Modeling & Class Diagram** practice  
+- Implemented **5 scenario-based Java programs**  
+- Inserted all programs into submission documents  
+- Tested, committed, and pushed all programs to GitHub  
+
+### Scenario Based Programs Implemented:
+- Temperature Logger  
+- Train Reservation Queue  
+- Sandeep’s Fitness Challenge Tracker  
+- Movie Ticket Booking App  
+- Rohan’s Library Reminder App  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)** : Object Modeling     
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-problems-day-4)** : Scenario Based Problems      
+
+### 📌 Key Takeaway:
+Improved my understanding of object modeling, class relationships, and real-world logical implementation by building structured Java programs using loops and conditions.
+
+---
+
+## 🗓 Day 3 – Inheritance & Advanced Scenario Based Programs  
+**Date: 31-Dec-2025**
+
+Focused on strengthening **Java Inheritance concepts and advanced scenario based programming** by implementing real-world programs using inheritance, loops, conditions, and switch cases while following professional coding standards.
+
+### What I practiced today:
+- Java Inheritance:
+  - Understanding inheritance concepts  
+  - Using `extends` keyword  
+  - Method overriding basics  
+  - Parent and child class relationships  
+
+- Scenario Based Programming:
+  - Implementing advanced real-world logic  
+  - Applying nested loops, `do-while`, `while`, `if`, `switch`, `break`, and `continue`  
+
+### Best Programming Practices Followed:
+- Used meaningful variable and method names  
+- Maintained clean code structure and proper indentation  
+- Used modular and readable code blocks  
+- Avoided hard-coding values  
+
+### Work Done:
+- Completed **Java Inheritance** programs  
+- Implemented **5 advanced scenario-based Java programs**  
+- Inserted all programs into submission documents  
+- Tested, committed, and pushed all programs to GitHub  
+
+### Scenario Based Programs Implemented:
+- Digital Watch Simulation  
+- Online Quiz Application  
+- Currency Exchange Kiosk  
+- Bus Route Distance Tracker  
+- Festival Lucky Draw  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)** : Inheritance        
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-problems-day-5)** : Scenario Based Programs     
+
+### 📌 Key Takeaway:
+Strengthened my understanding of Java inheritance and advanced control flow by implementing complex real-world scenario programs using structured and modular code.
+
+---
+
+## 🗓 Day 4 – Encapsulation, Interface & Abstract Classes  
+**Date: 01-Jan-2026**
+
+Focused on strengthening **Encapsulation, Interface, and Abstract Class concepts** by understanding object security, abstraction, and polymorphic behavior while following professional coding standards.
+
+### What I practiced today:
+- Encapsulation:
+  - Data hiding using private variables  
+  - Getter and setter methods  
+  - Controlled access to class data  
+
+- Interfaces:
+  - Defining and implementing interfaces  
+  - Achieving multiple inheritance using interfaces  
+
+- Abstract Classes:
+  - Creating abstract classes  
+  - Implementing abstract methods in subclasses  
+  - Understanding abstraction in real-world design  
+
+- Polymorphism:
+  - Method overriding  
+  - Dynamic method dispatch  
+
+### Best Programming Practices Followed:
+- Used meaningful variable and method names  
+- Maintained clean code structure and proper indentation  
+- Followed modular and readable coding style  
+- Avoided hard-coding values  
+
+### Work Done:
+- Completed **Encapsulation, Interface & Abstract Class** programs  
+- Inserted all programs into submission documents  
+- Tested, committed, and pushed all programs to GitHub  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism)** : Encapsulation, Interface & Abstract Classes     
+
+### 📌 Key Takeaway:
+Developed a strong understanding of data hiding, abstraction, and polymorphism by implementing clean and modular object-oriented Java programs.
+
+---
+
+
+
+
+
