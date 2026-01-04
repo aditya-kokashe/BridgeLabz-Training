@@ -571,6 +571,92 @@ Developed a strong understanding of data hiding, abstraction, and polymorphism b
 
 ---
 
+## 🗓 Day 5 – Linked List, Helper Methods & Real-World OOPS Design  
+**Date: 02-Jan-2026**
+
+Focused on strengthening **Data Structure fundamentals (Linked List)** and **advanced real-world object-oriented system design** by building story-driven Java applications using modular helper methods while following professional coding standards.
+
+### What I practiced today:   
+- Data Structures:   
+  - Introduction to Linked List    
+  - Understanding node structure and traversal  
+  - Performing insertion and traversal operations   
+
+- Helper Methods & Code Modularity:    
+  - Breaking logic into reusable helper methods    
+  - Improving readability and maintainability using modular design  
+
+- Advanced OOPS Design:    
+  - Applying Encapsulation, Inheritance, Abstraction & Polymorphism  
+  - Implementing Interfaces for behavior abstraction  
+
+### Best Programming Practices Followed:    
+- Designed small, focused, and reusable methods  
+- Used meaningful variable and method names  
+- Avoided hard-coding values  
+- Followed proper indentation and readability standards  
+
+### Work Done:
+- Completed **Linked List & Helper Method** practice  
+- Implemented **5 real-world scenario-driven Java systems**  
+- Inserted all programs into submission documents  
+- Tested, committed, and pushed all programs to GitHub  
+
+### Scenario Based Systems Implemented:
+- Hospital Patient Management System  
+- Vehicle Rental Application  
+- University Course Enrollment System  
+- E-Wallet Application  
+- Smart Home Automation System  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)** : Linked List   
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day1)** : Scenario Based Programs      
+
+### 📌 Key Takeaway:
+Gained strong hands-on experience in modular coding, data structures, and designing real-world object-oriented systems using clean, reusable, and scalable Java architecture.
+
+---
+
+## 🗓 Day 6 – Stack, Queue, HashMap & Enterprise OOPS Systems  
+**Date: 03-Jan-2026**
+
+Focused on strengthening **core Data Structure concepts (Stack, Queue, HashMap, Hashing)** and **enterprise-level object-oriented system design** by building real-world story-driven Java applications while following professional coding standards.
+
+### What I practiced today:   
+- Data Structures:   
+  - Stack operations (push, pop, peek)  
+  - Queue operations (enqueue, dequeue)  
+  - Understanding hashing functions and collision handling  
+
+- Enterprise OOPS System Design:    
+  - Designing scalable real-world systems  
+  - Applying Encapsulation, Inheritance, Abstraction & Polymorphism  
+  - Implementing interfaces for service abstraction  
+
+### Best Programming Practices Followed:    
+- Designed small, focused, and reusable methods  
+- Used meaningful variable and method names  
+- Followed proper indentation and readability standards  
+
+### Work Done:
+- Completed **Stack, Queue, HashMap & Hashing Function** practice  
+- Implemented **2 enterprise-level real-world Java systems**  
+- Inserted all programs into submission documents  
+- Tested, committed, and pushed all programs to GitHub  
+
+### Scenario Based Systems Implemented:
+- CabbyGo – Ride Hailing Application  
+- MyBank – Customer Account Management System  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/stacksandqueues)** : Stack & Queue    
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/hashmapsandfunctions)** : HashMap & Hashing      
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day2)** : Scenario Based Programs   
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of core data structures and enterprise-level object-oriented design by implementing scalable, modular, and real-world Java systems.
+
+---
+
 
 
 
