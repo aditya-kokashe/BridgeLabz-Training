@@ -284,6 +284,65 @@ Focused on strengthening **enterprise-level real-world object-oriented system de
 ### 📌 Key Takeaway:
 Developed strong hands-on understanding of enterprise-level object-oriented design by implementing scalable, modular, and real-world Java systems.
 
+---
 
+# Week 4: Scanario based problems
+
+## 🗓 Day 1 – Scenario Based Practice problems
+**Date: 05-Jan-2026**
+
+Focused on strengthening **advanced object-oriented programming, real-world scenario based system design** by building enterprise-level Java applications while following professional coding standards.
+
+### What I practiced today:     
+- Scenario Based System Design:   
+  - Modeling real-world enterprise problem scenarios  
+  - Implementing business logic using methods  
+  - Applying access modifiers to secure sensitive data   
+    
+### Work Done:
+- Completed **Advanced OOPS, Scenario Based Design Problems** practice  
+- Implemented **2 real-world enterprise-level Java systems**  
+- Implemented sorting algorithm programs  
+- Tested, committed, and pushed all programs to GitHub  
+
+### Scenario Based Systems Implemented:
+- CampusConnect – College Information System  
+- SwiftCart – Grocery Shopping Application  
+    
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day3)** : Scenario Based Programs     
+
+### 📌 Key Takeaway:
+Gained strong hands-on experience in advanced object-oriented programming by designing scalable, modular, and real-world Java systems.
+
+---
+
+## 🗓 Day 2 – Scenario Based questions  
+**Date: 06-Jan-2026**
+
+Focused on strengthening **enterprise-level real-world object-oriented system design** by implementing advanced scenario-based Java applications while following professional coding standards.
+
+### What I practiced today:     
+- Enterprise Scenario Based OOPS Design:   
+  - Designing real-world problem scenarios  
+  - Modeling system components using classes and objects  
+  - Applying Encapsulation, Inheritance, Abstraction & Polymorphism    
+
+### Work Done:
+- Completed **Linear Search & Binary Search** practice  
+- Implemented **4 real-world enterprise-level Java systems**  
+- Solved **1 LeetCode problem**  
+
+### Scenario Based Systems Implemented:
+- PetPal – Virtual Pet Care App  
+- EventEase – Event Management Platform  
+- EduMentor – Personalized Learning Platform  
+- FitTrack – Personal Fitness Tracker  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day4)** : Scenario Based Programs     
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of enterprise-level object-oriented system design by implementing scalable, modular, and real-world Java applications.
+
+---
 
 
