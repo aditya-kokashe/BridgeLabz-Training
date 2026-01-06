@@ -693,11 +693,49 @@ Focused on strengthening **advanced object-oriented programming, real-world scen
 - CampusConnect – College Information System  
 - SwiftCart – Grocery Shopping Application  
 
-🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day3)** : Scenario Based Programs  
- 
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)** : Sorting Algorithms    
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day3)** : Scenario Based Programs     
 
 ### 📌 Key Takeaway:
 Gained strong hands-on experience in advanced object-oriented programming and sorting algorithms by designing scalable, modular, and real-world Java systems.
+
+---
+
+## 🗓 Day 2 – Searching & Scenario Based questions  
+**Date: 06-Jan-2026**
+
+Focused on strengthening **searching algorithm fundamentals (Linear Search & Binary Search)** and **enterprise-level real-world object-oriented system design** by implementing advanced scenario-based Java applications while following professional coding standards.
+
+### What I practiced today:   
+- Searching Algorithms:   
+  - Linear Search implementation  
+  - Binary Search implementation  
+  - Understanding time complexity of searching techniques  
+- Enterprise Scenario Based OOPS Design:   
+  - Designing real-world problem scenarios  
+  - Modeling system components using classes and objects  
+  - Applying Encapsulation, Inheritance, Abstraction & Polymorphism   
+
+### Work Done:
+- Completed **Linear Search & Binary Search** practice  
+- Implemented **4 real-world enterprise-level Java systems**  
+- Solved **1 LeetCode problem**  
+
+### Scenario Based Systems Implemented:
+- PetPal – Virtual Pet Care App  
+- EventEase – Event Management Platform  
+- EduMentor – Personalized Learning Platform  
+- FitTrack – Personal Fitness Tracker  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day4)** : Scenario Based Programs   
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-4)** : Leetcode problems      
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of searching algorithms and enterprise-level object-oriented system design by implementing scalable, modular, and real-world Java applications.
+
+---
+
+
 
 
 
