@@ -657,6 +657,47 @@ Developed strong hands-on understanding of core data structures and enterprise-l
 
 ---
 
+# Week 4: DSA practice
+
+## 🗓 Day 1 – Scenario Based Design & Sorting Algorithms  
+**Date: 05-Jan-2026**
+
+Focused on strengthening **advanced object-oriented programming, real-world scenario based system design, and sorting algorithm fundamentals** by building enterprise-level Java applications and implementing sorting techniques while following professional coding standards.
+
+### What I practiced today:   
+- Advanced OOPS Concepts:   
+  - Applying Encapsulation, Inheritance, Abstraction & Polymorphism  
+  - Using interfaces to define system behavior  
+  - Designing modular and scalable class structures  
+- Scenario Based System Design:   
+  - Modeling real-world enterprise problem scenarios  
+  - Implementing business logic using methods  
+  - Applying access modifiers to secure sensitive data  
+- Sorting Algorithms:   
+  - Understanding sorting concepts and importance  
+  - Implementing Bubble Sort, Selection Sort, and Insertion Sort  
+  - Comparing algorithm performance and time complexity  
+
+### Best Programming Practices Followed:   
+- Designed small, focused, and reusable methods  
+- Avoided hard-coding values  
+- Followed proper indentation and readability standards  
+
+### Work Done:
+- Completed **Advanced OOPS, Scenario Based Design & Sorting Algorithms** practice  
+- Implemented **2 real-world enterprise-level Java systems**  
+- Implemented sorting algorithm programs  
+- Tested, committed, and pushed all programs to GitHub  
+
+### Scenario Based Systems Implemented:
+- CampusConnect – College Information System  
+- SwiftCart – Grocery Shopping Application  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day3)** : Scenario Based Programs  
+ 
+
+### 📌 Key Takeaway:
+Gained strong hands-on experience in advanced object-oriented programming and sorting algorithms by designing scalable, modular, and real-world Java systems.
 
 
 
