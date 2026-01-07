@@ -1,5 +1,73 @@
 # BridgeLabz-Training
-# Week 1: Git, GitHub & Java Programming Fundamentals
+> A comprehensive Java programming training repository covering Core Java fundamentals to Object-Oriented Programming concepts.
+
+## Training Overview
+
+This repository documents my learning journey at **BridgeLabz**, spanning from **December 15, 2025 to present**.  
+The training is organized into structured branches covering different aspects of Java development, real-world scenario based programming, and DSA preparation.
+
+---
+
+## Repository Branches
+
+### 🔹 core-java-practice  
+**Week 1:** Fundamentals of Java Programming  
+
+### 🔹 java-oops-practice  
+**Week 2:** Object-Oriented Programming  
+
+### 🔹 dsa-practice  
+**Week 3:** Data Structures & Algorithms  
+
+---
+
+## 📁Project Structure
+```
+BridgeLabz-Training/
+│
+├── 📁 core-java-practice/
+│   ├── 📁 gcr-codebase/
+│   │   ├── 📁 programming-prerequisites/           
+│   │   ├── 📁 programming-elements/    
+│   │   ├── 📁 control-flows/           
+│   │   ├── 📁 arrays/                 
+│   │   ├── 📁 methods/                
+│   │   ├── 📁 strings/                 
+│   │   └── 📁 extras/                 
+│   ├── 📁 leet-code-codebase/         
+│   └── 📁 scenario-based-codebase/    
+│
+└── 📁 java-oops-practice/
+│   └── 📁 gcr-codebase/
+│   │  └── 📁 JavaOopsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 classandobject/   
+│   │               └── 📁 constructor/
+│   │               └── 📁 finalandstatic/    
+│   │               └── 📁 objectmodeling/   
+│   │               └── 📁 inheritance/      
+│   │               └── 📁 encapsulation/     
+│   ├── 📁 leet-code-codebase/                
+│   └── 📁 scenario-based-codebase/           
+|
+└── 📁 dsa-practice/
+│   └── 📁 gcr-codebase/
+│   │  └── 📁 JavaDsaPractice/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 linkedlist/      
+│   │               └── 📁 stacksandqueues/                      
+│   │               └── 📁 hashmapsandfunctions/          
+│   │               └── 📁 sorting/           
+│   ├── 📁 leet-code-codebase/                
+│   └── 📁 scenario-based-codebase/           
+|
+└── README.md
+```
+---
+
+# Week 1: Core Java Programming
 
 ## 🗓 Day 1 – Git & GitHub Setup  
 **Date: 15-Dec-2025**
@@ -7,24 +75,6 @@
 - Installed and configured **Git** on my system  
 - Created and set up a **GitHub repository**
 - Designed the project folder structure for Java practice:
-
-```text
-BridgeLabz-Training/
-├── core-java-practice/
-│   ├── gcr-codebase/
-│   │   ├── arrays/
-│   │   ├── control-flow/
-│   │   ├── extra/
-│   │   ├── methods/
-│   │   ├── programming-elements/
-│   │   ├── programming-prerequisites/
-│   │   └── strings/
-│   ├── leet-code-codebase/
-│   └── scenario-based-codebase/
-└── README.md
-```
-
-
 
 ### Git Commands Learned:
 - `git init`
@@ -60,7 +110,7 @@ Gained confidence in using Git for daily development tasks and built a strong fo
 
 ---
 
-## 🗓 Day 3 – Programming Fundamentals Lab Practice (Level 1 & Level 2)  
+## 🗓 Day 3 – Programming Fundamentals Lab Practice 
 **Date: 17-Dec-2025**
 
 Focused on building a strong foundation in **Java Programming Fundamentals** by completing Level 1 and Level 2 lab practice problems following best programming standards.
@@ -78,11 +128,6 @@ Focused on building a strong foundation in **Java Programming Fundamentals** by 
 ### Best Programming Practices Followed:
 - Avoided hard-coded values wherever possible  
 - Followed proper naming conventions  
-- Practiced meaningful variable naming, for example:
-  ```java
-  String name = "Eric";
-  double height = input.nextDouble();
-  double totalDistance = distanceFromToVia + distanceViaToFinalCity;
 
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)** : Java Programming Elements  
 
@@ -91,7 +136,7 @@ Built a strong foundation in Java programming fundamentals by understanding core
 
 ---
 
-## 🗓 Day 4 – Control Flow & Lab Practice (Level 1 & Level 2)  
+## 🗓 Day 4 – Control Flow & Lab Practice 
 **Date: 18-Dec-2025**
 
 Focused on learning **Java Control Flow concepts** by completing Level 1 and Level 2 lab practice problems while following professional programming standards.
@@ -109,7 +154,6 @@ Focused on learning **Java Control Flow concepts** by completing Level 1 and Lev
 ### Best Programming Practices Followed:
 - Used variables for all fixed values, user inputs, and results  
 - Avoided hard-coded values wherever possible  
-- Validated all user inputs and handled invalid cases  
 - Used loop conditions and array length where applicable  
 
 ### Work Done:
@@ -123,7 +167,7 @@ Developed a strong understanding of decision-making and looping constructs in Ja
 
 ---
 
-## 🗓 Day 5 – Arrays & Lab Practice (Level 1 & Level 2)  
+## 🗓 Day 5 – Arrays & Lab Practice  
 **Date: 19-Dec-2025**
 
 Focused on understanding **Java Arrays** by completing Level 1 and Level 2 lab practice problems while following professional programming standards.
@@ -141,8 +185,6 @@ Focused on understanding **Java Arrays** by completing Level 1 and Level 2 lab p
 ### Best Programming Practices Followed:
 - Used variables for all fixed values, user inputs, and results  
 - Avoided hard-coded values wherever possible  
-- Followed proper naming conventions  
-- Validated user inputs and handled invalid cases  
 - Used array `length` property in loops  
 
 ### Work Done:
@@ -156,7 +198,7 @@ Developed a strong understanding of single and multi-dimensional arrays in Java,
 
 ---
 
-## 🗓 Day 6 – Java Methods (Level 1, Level 2 & Level 3) 
+## 🗓 Day 6 – Java Methods 
 **Date: 20-Dec-2025**
 
 Focused on understanding **Java Methods** and building reusable, dynamic, and well-structured programs using best programming practices.
@@ -165,8 +207,6 @@ Focused on understanding **Java Methods** and building reusable, dynamic, and we
 - Java Methods concepts including:
   - User Defined Methods  
   - Using Methods Multiple Times  
-  - Making Methods More Dynamic  
-  - Recursive Methods  
   - Static Methods  
   - Java Standard Library Methods  
   - `java.lang.Math` class  
@@ -178,7 +218,6 @@ Focused on understanding **Java Methods** and building reusable, dynamic, and we
 ### Work Done:
 - Completed **Level 1, Level 2 & Level 3 Lab Practice Assignments**
 - Implemented and tested all programs locally
-- Committed and pushed all method-based programs to GitHub
 
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)** : Level 1, Level 2 & Level 3 Java Methods Lab Practice
 
@@ -187,9 +226,7 @@ Learned how to design reusable and modular Java programs using methods, improvin
 
 ---
 
-# Week 2: Java Strings, Methods & Exception Handling
-
-## 🗓 Day 1 – Java Strings & Exception Handling (Level 1, 2 & 3 Labs)  
+## 🗓 Day 7 – Java Strings & Exception Handling 
 **Date: 22-Dec-2025**
 
 Focused on strengthening **Java Strings** and **Exception Handling** by completing Level 1, Level 2, and Level 3 lab practice problems while following professional coding standards.
@@ -208,13 +245,11 @@ Focused on strengthening **Java Strings** and **Exception Handling** by completi
 
 ### Best Programming Practices Followed:
 - Used variables for all fixed values, user inputs, and results  
-- Implemented logic using methods instead of writing everything inside `main()`  
 - Followed proper naming conventions for variables and methods  
 - Used meaningful program and class names   
 
 ### Work Done:
 - Completed **Java String Lab Practices (Level 1, 2 & 3)**
-- Inserted all programs into submission documents
 - Tested, committed, and pushed all programs to GitHub
 
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)** : Java String Lab Practices
@@ -224,7 +259,7 @@ Improved understanding of Java string manipulation and exception handling concep
 
 ---
 
-## 🗓 Day 2 – Built-in Functions & String Handling  
+## 🗓 Day 8 – Built-in Functions & String Handling  
 **Date: 23-Dec-2025**
 
 Focused on understanding **Java String Handling** and learning the practical use of **built-in functions** to build clean and efficient logic.
@@ -256,7 +291,7 @@ Developed a stronger understanding of Java string handling and built-in function
 
 ---
 
-## 🗓 Day 3 – Scenario-Based Java Problem Solving  
+## 🗓 Day 9 – Scenario-Based Java Problem Solving  
 **Date: 24-Dec-2025**
 
 Focused on solving **real-world, scenario-based Java problems** to strengthen Core Java fundamentals, logical thinking, and clean coding practices.
@@ -273,27 +308,26 @@ Focused on solving **real-world, scenario-based Java problems** to strengthen Co
 ### Scenario-Based Problems Implemented:
 - **The Coffee Counter Chronicles**  
   - Took coffee type input using `switch`  
-  - Accepted quantity  
-  - Calculated total bill and GST  
   - Used `while` loop to serve multiple customers until “exit”  
 - **Maya’s BMI Fitness Tracker**  
   - Calculated BMI using height and weight  
   - Displayed BMI category using `if-else` conditions  
-  - Followed clean and readable coding standards  
 
 ### Work Done:
 - Implemented, tested, and validated programs with multiple inputs  
 - Organized all solutions into the **scenario-based-codebase** folder  
 - Committed and pushed all programs to GitHub
 
-🔗 **[Folder Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)** : Scenario-Based Codebase
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)** : Scenario-Based Codebase
 
 ### 📌 Key Takeaway:
 Improved problem-solving skills by applying core Java concepts to real-world scenarios, reinforcing logical thinking and the importance of writing clean, maintainable code.
 
 ---
 
-## 🗓 Day 4 – Object-oriented Programming Fundamental 
+# Week 2: Object-Oriented Programming
+
+## 🗓 Day 1 – Object-oriented Programming Fundamental 
 **Date: 26-Dec-2025**
 
 Focused on strengthening **Object-oriented Programming Fundamental** by understanding and implementing Java Class and Object concepts while following professional coding standards.
@@ -301,24 +335,17 @@ Focused on strengthening **Object-oriented Programming Fundamental** by understa
 ### What I practiced today:
 - Object-Oriented Programming Concepts:
   - Understanding classes and objects  
-  - Creating and accessing object members  
   - Using constructors  
-  - Method invocation through objects  
-
 - Java Methods:
   - Defining and calling methods  
-  - Passing parameters and returning values  
   - Method overloading  
-
 - Java Class Design:
   - Designing clean and meaningful class structures  
   - Using multiple objects for a single class  
 
 ### Best Programming Practices Followed:
 - Used variables for all fixed values, user inputs, and results  
-- Implemented logic using methods instead of writing everything inside `main()`  
 - Followed proper naming conventions for variables and methods  
-- Used meaningful program and class names  
 
 ### Work Done:
 - Completed **Object-oriented Programming Fundamental** programs  
@@ -334,7 +361,7 @@ Developed a solid understanding of Java OOPS fundamentals by applying classes, o
 
 ---
 
-## 🗓 Day 5 – Java Constructors, Instance vs Class Variables  
+## 🗓 Day 2 – Java Constructors, Instance vs Class Variables  
 **Date: 27-Dec-2025**
 
 Focused on strengthening **Java Constructors and Instance vs Class Variables** by understanding object initialization, memory behavior of variables, and class design principles while following professional coding standards.
@@ -343,24 +370,17 @@ Focused on strengthening **Java Constructors and Instance vs Class Variables** b
 - Java Constructors:
   - Purpose and usage of constructors  
   - Default constructor  
-  - Parameterized constructor  
-  - Constructor overloading  
   - Use of `this` keyword
-    
 - Instance vs Class Variables:
   - Instance variables and their memory allocation  
-  - Class (static) variables and shared memory behavior  
   - Difference between instance and static members
-    
 - Object Initialization:
   - Initializing objects using constructors  
   - Accessing variables and methods using objects  
 
 ### Best Programming Practices Followed:
 - Used variables for all fixed values, user inputs, and results  
-- Implemented logic using methods instead of writing everything inside `main()`  
 - Followed proper naming conventions for variables and methods  
-- Used meaningful program and class names  
 
 ### Work Done:
 - Completed **Java Constructors & Instance vs Class Variables** programs  
@@ -375,7 +395,7 @@ Understood how constructors and static vs instance variables actually behave in 
 
 ---
 
-## 🗓 Day 6 – LeetCode Problem Solving & Logic Building  
+## 🗓 Day 3 – LeetCode Problem Solving & Logic Building  
 **Date: 28-Dec-2025**
 
 Focused on strengthening **problem-solving skills and logical thinking** by solving LeetCode programming problems while following professional coding standards.
@@ -403,9 +423,7 @@ Improved my confidence in solving real coding interview problems by practicing l
 
 ---
 
-# Week 3: Java Keywords & Object Handling
-
-## 🗓 Day 1 – this, static, final Keywords & instanceof Operator  
+## 🗓 Day 4 – this, static, final Keywords & instanceof Operator  
 **Date: 29-Dec-2025**
 
 Focused on strengthening **Java keyword concepts and object handling techniques** by understanding and implementing `this`, `static`, `final` keywords and the `instanceof` operator along with scenario-based programming while following professional coding standards.
@@ -415,11 +433,9 @@ Focused on strengthening **Java keyword concepts and object handling techniques*
   - `this` keyword and its use cases  
   - `static` variables and methods  
   - `final` variables, methods, and classes  
-
 - Object Handling:
   - Understanding the `instanceof` operator  
   - Checking object types at runtime  
-
 - Scenario Based Logic:
   - Implementing real-world logic using OOPS concepts  
   - Applying conditions and validations  
@@ -427,14 +443,11 @@ Focused on strengthening **Java keyword concepts and object handling techniques*
 ### Best Programming Practices Followed:
 - Used variables for all fixed values, user inputs, and results  
 - Implemented logic using methods instead of writing everything inside `main()`  
-- Followed proper naming conventions for variables and methods  
 - Used meaningful program and class names  
 
 ### Work Done:
 - Completed **this, static, final keywords & instanceof** programs  
 - Implemented **5 scenario-based programming problems**  
-- Inserted all programs into submission documents  
-- Tested, committed, and pushed all programs to GitHub  
 
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywordandoperator/levelone)** : this, static, final keywords & instanceof     
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-problems-day-3)** : Scenario based problems
@@ -444,7 +457,7 @@ Developed a clear understanding of how Java keywords control object behavior, me
 
 ---
 
-## 🗓 Day 2 – Object Modeling, Class Diagram & Scenario Based Programs  
+## 🗓 Day 5 – Object Modeling and Scenario Based Programs  
 **Date: 30-Dec-2025**
 
 Focused on strengthening **Object Modeling and Scenario Based Programming** by designing real-world Java programs and implementing control flow logic while following professional coding standards.
@@ -454,21 +467,13 @@ Focused on strengthening **Object Modeling and Scenario Based Programming** by d
   - Understanding object modeling  
   - Designing class structure  
   - Learning class diagrams and object relationships  
-
 - Scenario Based Programming:
   - Implementing real-world logic using loops and conditions  
   - Applying `if`, `switch`, `for`, `while`, `break`, and `continue`  
 
-### Best Programming Practices Followed:
-- Used meaningful variable and method names  
-- Maintained clean code structure and proper indentation  
-- Used modular and readable code blocks  
-- Avoided hard-coding values  
-
 ### Work Done:
 - Completed **Object Modeling & Class Diagram** practice  
 - Implemented **5 scenario-based Java programs**  
-- Inserted all programs into submission documents  
 - Tested, committed, and pushed all programs to GitHub  
 
 ### Scenario Based Programs Implemented:
@@ -486,7 +491,7 @@ Improved my understanding of object modeling, class relationships, and real-worl
 
 ---
 
-## 🗓 Day 3 – Inheritance & Advanced Scenario Based Programs  
+## 🗓 Day 6 – Inheritance & Advanced Scenario Based Programs  
 **Date: 31-Dec-2025**
 
 Focused on strengthening **Java Inheritance concepts and advanced scenario based programming** by implementing real-world programs using inheritance, loops, conditions, and switch cases while following professional coding standards.
@@ -495,18 +500,10 @@ Focused on strengthening **Java Inheritance concepts and advanced scenario based
 - Java Inheritance:
   - Understanding inheritance concepts  
   - Using `extends` keyword  
-  - Method overriding basics  
   - Parent and child class relationships  
-
 - Scenario Based Programming:
   - Implementing advanced real-world logic  
   - Applying nested loops, `do-while`, `while`, `if`, `switch`, `break`, and `continue`  
-
-### Best Programming Practices Followed:
-- Used meaningful variable and method names  
-- Maintained clean code structure and proper indentation  
-- Used modular and readable code blocks  
-- Avoided hard-coding values  
 
 ### Work Done:
 - Completed **Java Inheritance** programs  
@@ -529,7 +526,7 @@ Strengthened my understanding of Java inheritance and advanced control flow by i
 
 ---
 
-## 🗓 Day 4 – Encapsulation, Interface & Abstract Classes  
+## 🗓 Day 7 – Encapsulation, Interface & Abstract Classes  
 **Date: 01-Jan-2026**
 
 Focused on strengthening **Encapsulation, Interface, and Abstract Class concepts** by understanding object security, abstraction, and polymorphic behavior while following professional coding standards.
@@ -538,24 +535,18 @@ Focused on strengthening **Encapsulation, Interface, and Abstract Class concepts
 - Encapsulation:
   - Data hiding using private variables  
   - Getter and setter methods  
-  - Controlled access to class data  
-
 - Interfaces:
   - Defining and implementing interfaces  
   - Achieving multiple inheritance using interfaces  
-
 - Abstract Classes:
   - Creating abstract classes  
   - Implementing abstract methods in subclasses  
-  - Understanding abstraction in real-world design  
-
 - Polymorphism:
   - Method overriding  
   - Dynamic method dispatch  
 
 ### Best Programming Practices Followed:
 - Used meaningful variable and method names  
-- Maintained clean code structure and proper indentation  
 - Followed modular and readable coding style  
 - Avoided hard-coding values  
 
@@ -571,7 +562,9 @@ Developed a strong understanding of data hiding, abstraction, and polymorphism b
 
 ---
 
-## 🗓 Day 5 – Linked List, Helper Methods & Real-World OOPS Design  
+# Week 3: Data Structures & Algorithms
+
+## 🗓 Day 1 – Linked List, Helper Methods & Real-World OOPS Design  
 **Date: 02-Jan-2026**
 
 Focused on strengthening **Data Structure fundamentals (Linked List)** and **advanced real-world object-oriented system design** by building story-driven Java applications using modular helper methods while following professional coding standards.
@@ -581,25 +574,16 @@ Focused on strengthening **Data Structure fundamentals (Linked List)** and **adv
   - Introduction to Linked List    
   - Understanding node structure and traversal  
   - Performing insertion and traversal operations   
-
 - Helper Methods & Code Modularity:    
   - Breaking logic into reusable helper methods    
   - Improving readability and maintainability using modular design  
-
 - Advanced OOPS Design:    
   - Applying Encapsulation, Inheritance, Abstraction & Polymorphism  
   - Implementing Interfaces for behavior abstraction  
 
-### Best Programming Practices Followed:    
-- Designed small, focused, and reusable methods  
-- Used meaningful variable and method names  
-- Avoided hard-coding values  
-- Followed proper indentation and readability standards  
-
 ### Work Done:
 - Completed **Linked List & Helper Method** practice  
 - Implemented **5 real-world scenario-driven Java systems**  
-- Inserted all programs into submission documents  
 - Tested, committed, and pushed all programs to GitHub  
 
 ### Scenario Based Systems Implemented:
@@ -617,7 +601,7 @@ Gained strong hands-on experience in modular coding, data structures, and design
 
 ---
 
-## 🗓 Day 6 – Stack, Queue, HashMap & Enterprise OOPS Systems  
+## 🗓 Day 2 – Stack, Queue, HashMap & Enterprise OOPS Systems  
 **Date: 03-Jan-2026**
 
 Focused on strengthening **core Data Structure concepts (Stack, Queue, HashMap, Hashing)** and **enterprise-level object-oriented system design** by building real-world story-driven Java applications while following professional coding standards.
@@ -627,16 +611,10 @@ Focused on strengthening **core Data Structure concepts (Stack, Queue, HashMap, 
   - Stack operations (push, pop, peek)  
   - Queue operations (enqueue, dequeue)  
   - Understanding hashing functions and collision handling  
-
 - Enterprise OOPS System Design:    
   - Designing scalable real-world systems  
   - Applying Encapsulation, Inheritance, Abstraction & Polymorphism  
   - Implementing interfaces for service abstraction  
-
-### Best Programming Practices Followed:    
-- Designed small, focused, and reusable methods  
-- Used meaningful variable and method names  
-- Followed proper indentation and readability standards  
 
 ### Work Done:
 - Completed **Stack, Queue, HashMap & Hashing Function** practice  
@@ -657,9 +635,7 @@ Developed strong hands-on understanding of core data structures and enterprise-l
 
 ---
 
-# Week 4: DSA practice
-
-## 🗓 Day 1 – Scenario Based Design & Sorting Algorithms  
+## 🗓 Day 3 – Sorting Algorithms & Scenario Based Design 
 **Date: 05-Jan-2026**
 
 Focused on strengthening **advanced object-oriented programming, real-world scenario based system design, and sorting algorithm fundamentals** by building enterprise-level Java applications and implementing sorting techniques while following professional coding standards.
@@ -701,7 +677,7 @@ Gained strong hands-on experience in advanced object-oriented programming and so
 
 ---
 
-## 🗓 Day 2 – Searching & Scenario Based questions  
+## 🗓 Day 4 – Searching & Scenario Based questions  
 **Date: 06-Jan-2026**
 
 Focused on strengthening **searching algorithm fundamentals (Linear Search & Binary Search)** and **enterprise-level real-world object-oriented system design** by implementing advanced scenario-based Java applications while following professional coding standards.
@@ -727,13 +703,45 @@ Focused on strengthening **searching algorithm fundamentals (Linear Search & Bin
 - EduMentor – Personalized Learning Platform  
 - FitTrack – Personal Fitness Tracker  
 
-🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day4)** : Scenario Based Programs   
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day4)** : Scenario Based Programs    
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-4)** : Leetcode problems      
 
 ### 📌 Key Takeaway:
 Developed strong hands-on understanding of searching algorithms and enterprise-level object-oriented system design by implementing scalable, modular, and real-world Java applications.
 
 ---
+
+## 🗓 Day 5 – Algorithm Runtime Analysis & Big-O Notation  
+**Date: 07-Jan-2026**
+
+Focused on strengthening **algorithm runtime analysis concepts and Big-O notation** by understanding time and space complexity and analyzing algorithm performance while following professional coding standards.
+
+### What I practiced today:   
+- Algorithm Runtime Analysis:   
+  - Understanding algorithm efficiency  
+  - Best case, average case, and worst case scenarios  
+  - Analyzing time complexity of algorithms  
+- Big-O Notation:   
+  - Understanding asymptotic notations  
+  - Analyzing common complexities: O(1), O(n), O(log n), O(n²)  
+  - Comparing algorithm performance  
+
+### Best Programming Practices Followed:   
+- Used meaningful variable and method names  
+- Maintained clean and readable code structure  
+- Followed proper indentation and readability standards  
+
+### Work Done:
+- Completed **Algorithm Runtime Analysis & Big-O Notation** practice  
+- Tested, committed, and pushed all programs to GitHub  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day4)** : Scenario Based Programs      
+
+### 📌 Key Takeaway:
+Developed a clear understanding of algorithm efficiency and how Big-O notation helps in selecting optimal solutions for problem-solving.
+
+---
+
 
 
 
