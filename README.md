@@ -67,7 +67,55 @@ Focused on strengthening **core Data Structure concepts (Stack, Queue, HashMap, 
 ### 📌 Key Takeaway:
 Developed a strong understanding of Stack, Queue, and HashMap data structures and how hashing enables efficient data storage and retrieval in Java.
 
+---
 
+# Week 4: DSA practice
+
+## 🗓 Day 1 – Sorting Algorithms  
+**Date: 05-Jan-2026**
+
+Focused on strengthening **advanced object-oriented programming and sorting algorithm fundamentals** by building enterprise-level Java applications and implementing sorting techniques while following professional coding standards.
+
+### What I practiced today:   
+- Sorting Algorithms:   
+  - Understanding sorting concepts and importance  
+  - Implementing Bubble Sort, Selection Sort, Insertion Sort and more     
+  - Comparing algorithm performance and time complexity    
+
+### Work Done:
+- Completed **Advanced OOPS & Sorting Algorithms** practice  
+- Implemented sorting algorithm programs  
+- Tested, committed, and pushed all programs to GitHub  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)** : Sorting Algorithms    
+
+### 📌 Key Takeaway:
+Gained strong hands-on experience in advanced object-oriented programming and sorting algorithms by designing scalable, modular, and real-world Java systems.
+
+---
+
+## 🗓 Day 2 – Searching problems   
+**Date: 06-Jan-2026**
+
+Focused on strengthening **searching algorithm fundamentals (Linear Search & Binary Search)** by implementing advanced scenario-based Java applications while following professional coding standards.   
+
+### What I practiced today:   
+- Searching Algorithms:   
+  - Linear Search implementation  
+  - Binary Search implementation  
+  - Understanding time complexity of searching techniques  
+
+### Work Done:
+- Completed **Linear Search & Binary Search** practice
+- Implemented **4 real-world enterprise-level Java systems**  
+- Solved **1 LeetCode problem**  
+ 
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-4)** : Leetcode problems      
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of searching algorithms and enterprise-level object-oriented system design by implementing scalable, modular, and real-world Java applications.
+
+---
 
 
 
