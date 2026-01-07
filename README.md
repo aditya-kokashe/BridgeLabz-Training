@@ -42,9 +42,11 @@ Understood the importance of version control and how GitHub helps in tracking ch
   - Program structure
   - Input and output handling
 - Practiced adding, committing, and pushing Java files to GitHub
-- Learned basic Java syntax and explored **Programming Fundamentals**   
+- Learned basic Java syntax and explored **Programming Fundamentals**
+  
 🔗 **[Code Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)** : Basic Java Programs  
 
+---
 
 ## 🗓 Day 3 – Programming Fundamentals 
 **Date: 17-Dec-2025**
@@ -58,9 +60,11 @@ Understood the importance of version control and how GitHub helps in tracking ch
   - Arithmetic Operators  
   - Operator Precedence  
   - Type Conversion  
-  - Taking User Input in Programs   
+  - Taking User Input in Programs
+    
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)** : Java Programming Elements  
 
+---
 
 ## 🗓 Day 4 – Control Flow  
 **Date: 18-Dec-2025**
@@ -78,8 +82,10 @@ Understood the importance of version control and how GitHub helps in tracking ch
 ### Work Done:
 - Completed **Level 1 & Level 2 Control Flow Lab Practice Assignments**
 - Tested, committed, and pushed all programs to GitHub
+
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)** : Control Flow Practices
 
+---
 
 ## 🗓 Day 5 – Arrays 
 **Date: 19-Dec-2025**
@@ -97,8 +103,10 @@ Understood the importance of version control and how GitHub helps in tracking ch
 ### Work Done:
 - Completed **Level 1 & Level 2 Lab Practice Assignments**
 - Tested, committed, and pushed all programs to GitHub
+  
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)** : Arrays Lab Practice  
 
+---
 
 ## 🗓 Day 6 – Java Methods 
 **Date: 20-Dec-2025**
@@ -115,8 +123,10 @@ Understood the importance of version control and how GitHub helps in tracking ch
 - Completed **Level 1, Level 2 & Level 3 Lab Practice Assignments**
 - Implemented and tested all programs locally
 - Committed and pushed all method-based programs to GitHub
+  
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)** : Java Methods Lab Practice
 
+---
 
 ## 🗓 Day 7 – Java Strings
 **Date: 22-Dec-2025**
@@ -136,8 +146,10 @@ Understood the importance of version control and how GitHub helps in tracking ch
 - Completed **Java String Lab Practices (Level 1, 2 & 3)**
 - Inserted all programs into submission documents
 - Tested, committed, and pushed all programs to GitHub
+  
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)** : Java String Lab Practices
 
+---
 
 ## 🗓 Day 8 – Built-in Functions & String Handling  
 **Date: 23-Dec-2025**
@@ -155,7 +167,8 @@ Understood the importance of version control and how GitHub helps in tracking ch
 - Completed **EXTRAS – Java String Handling** material  
 - Completed **EXTRAS – Built-in Function Practice Assignment**  
 - Tested, committed, and pushed all extra practice programs to GitHub
-🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/string-handling)** : Java String Handling (Extras)  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/string-handling)** : Java String Handling (Extras)    
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/built-in-function-problems)** : Built-in Function Practice (Extras)
 
 ---
@@ -173,8 +186,10 @@ Understood the importance of version control and how GitHub helps in tracking ch
 - Implemented, tested, and validated programs with multiple inputs  
 - Organized all solutions into the **scenario-based-codebase** folder  
 - Committed and pushed all programs to GitHub
+  
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)** : Scenario-Based problems
 
+---
 
 ## 🗓 Day 10 – Scenario-Based Java Problem Solving   
 **Date: 26-Dec-2025**
@@ -188,11 +203,13 @@ Understood the importance of version control and how GitHub helps in tracking ch
 - Implemented, tested, and validated programs with multiple inputs  
 - Organized all solutions into the **scenario-based-codebase** folder  
 - Committed and pushed all programs to GitHub
+  
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-problems-day-2)** : Scenario based problems
 
 ### 📌 Key Takeaway:
 - Improved my real-world problem-solving skills by implementing logical flow, loops, conditions, and grading systems in Java programs.
 
+---
 
 ## 🗓 Day 11 – Scenario-Based Java Problem Solving   
 **Date: 29-Dec-2025**
@@ -207,12 +224,14 @@ Understood the importance of version control and how GitHub helps in tracking ch
 ### Work Done:
 - Implemented, tested, and validated programs with multiple inputs  
 - Organized all solutions into the **scenario-based-codebase** folder  
-- Committed and pushed all programs to GitHub   
+- Committed and pushed all programs to GitHub
+  
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-problems-day-3)** : Scenario based problems
 
 ### 📌 Key Takeaway:
 - Improved my scenario based problem-solving skills by implementing loops, and conditions in Java programs.   
 
+---
 
 ## 🗓 Day 12 – Scenario-Based Java Problem Solving  
 **Date: 30-Dec-2025**
@@ -227,12 +246,14 @@ Understood the importance of version control and how GitHub helps in tracking ch
 ### Work Done:
 - Implemented, tested, and validated programs with multiple inputs  
 - Organized all solutions into the **scenario-based-codebase** folder  
-- Committed and pushed all programs to GitHub    
+- Committed and pushed all programs to GitHub
+      
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-problems-day-4)** : Scenario based problems
 
 ### 📌 Key Takeaway:
 - Improved my scenario based problem-solving skills by implementing loops, and conditions in Java programs.   
 
+---
 
 ## 🗓 Day 13 – Scenario-Based Java Problem Solving  
 **Date: 31-Dec-2025**
@@ -247,7 +268,8 @@ Understood the importance of version control and how GitHub helps in tracking ch
 ### Work Done:
 - Implemented, tested, and validated programs with multiple inputs  
 - Organized all solutions into the **scenario-based-codebase** folder  
-- Committed and pushed all programs to GitHub  
+- Committed and pushed all programs to GitHub
+  
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-problems-day-5)** : Scenario based problems
 
 ### 📌 Key Takeaway:
