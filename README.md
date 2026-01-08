@@ -272,3 +272,20 @@ Developed strong hands-on understanding of enterprise-level object-oriented syst
 Developed strong hands-on understanding of enterprise-level object-oriented system design by implementing scalable, modular, and real-world Java applications.
 
 ---
+
+## 🗓 Day 12 – Scenario-Based Practice  
+**Date: 08-Jan-2026**
+
+### Scenario Based Systems Implemented:
+- MediStore – Pharmacy Inventory & Sales System  
+- TourMate – Travel Itinerary Planner  
+
+### Work Done:
+- Implemented **2 real-world enterprise-level Java systems**  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day6)** : Scenario Based Programs     
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of enterprise-level object-oriented system design by implementing scalable, modular, and real-world Java applications.
+
+---
