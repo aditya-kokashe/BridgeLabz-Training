@@ -654,11 +654,6 @@ Focused on strengthening **advanced object-oriented programming, real-world scen
   - Implementing Bubble Sort, Selection Sort, and Insertion Sort  
   - Comparing algorithm performance and time complexity  
 
-### Best Programming Practices Followed:   
-- Designed small, focused, and reusable methods  
-- Avoided hard-coding values  
-- Followed proper indentation and readability standards  
-
 ### Work Done:
 - Completed **Advanced OOPS, Scenario Based Design & Sorting Algorithms** practice  
 - Implemented **2 real-world enterprise-level Java systems**  
@@ -735,10 +730,29 @@ Focused on strengthening **algorithm runtime analysis concepts and Big-O notatio
 - Completed **Algorithm Runtime Analysis & Big-O Notation** practice  
 - Tested, committed, and pushed all programs to GitHub  
 
-🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day4)** : Scenario Based Programs      
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day5)** : Scenario Based Programs      
 
 ### 📌 Key Takeaway:
 Developed a clear understanding of algorithm efficiency and how Big-O notation helps in selecting optimal solutions for problem-solving.
+
+---
+
+## 🗓 Day 6 – Scenario-Based Problems  
+**Date: 08-Jan-2026**
+
+Focused on strengthening **enterprise-level real-world object-oriented system design** by implementing advanced scenario-based Java applications while following professional coding standards.
+ 
+### Work Done:
+- Implemented **4 real-world scenario-based Java problems**  
+
+### Scenario Based Systems Implemented:
+- PetPal – Virtual Pet Care App  
+- EventEase – Event Management Platform   
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day6)** : Scenario Based Programs      
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of scenario-based object-oriented problems by implementing scalable, modular, and real-world Java applications.
 
 ---
 
