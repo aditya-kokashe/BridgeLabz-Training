@@ -289,3 +289,24 @@ Developed strong hands-on understanding of enterprise-level object-oriented syst
 Developed strong hands-on understanding of enterprise-level object-oriented system design by implementing scalable, modular, and real-world Java applications.
 
 ---
+
+## 🗓 Day 13 – Scenario-Based Practice  
+**Date: 09-Jan-2026**
+
+### Scenario Based Systems Implemented:
+- Artify – Digital Art Marketplace  
+- FoodLoop – Restaurant Ordering System
+- SkillForge – Online Learning Portal  
+
+### Work Done:
+- Implemented **3 real-world enterprise-level Java systems**  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day7)** : Scenario Based Programs     
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of enterprise-level object-oriented system design by implementing scalable, modular, and real-world Java applications.
+
+---
+
+
+
