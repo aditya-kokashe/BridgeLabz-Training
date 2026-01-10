@@ -777,6 +777,30 @@ Developed strong hands-on understanding of enterprise-level object-oriented syst
 
 ---
 
+## 🗓 Day 8 – Scenario-Based Practice  
+**Date: 10-Jan-2026**
+
+Focused on strengthening **dsa practice problems** by implementing advanced scenario-based Java applications while following professional coding standards.
+
+### Scenario Based Systems Implemented:
+- BookShelf – Library Organizer  
+- BrowserBuddy – Tab History Manager
+- AmbulanceRoute – Emergency Patient Navigation  
+
+### Work Done:
+- Implemented **3 real-world scenario Java problems**  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioProblems/src/com/day1)** : Scenario Based Programs     
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of dsa-practice problems by implementing scalable, modular, and real-world Java applications.
+
+---
+
+
+
+
+
 
 
 
