@@ -16,7 +16,7 @@ The training is organized into structured branches covering different aspects of
 ### 🔹 java-oops-practice  
 **Week 2:** Object-Oriented Programming  
 
-### 🔹 dsa-practice  
+### 🔹 🔗 **[dsa-practice](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice)**   
 **Week 3:** Data Structures & Algorithms  
 
 ---
