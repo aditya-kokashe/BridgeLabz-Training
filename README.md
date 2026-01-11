@@ -10,13 +10,13 @@ The training is organized into structured branches covering different aspects of
 
 ## Repository Branches
 
-### 🔹 core-java-practice  
+### **[🔹 core-java-practice](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice)**  
 **Week 1:** Fundamentals of Java Programming  
 
-### 🔹 java-oops-practice  
+### **[🔹 java-oops-practice](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice)**  
 **Week 2:** Object-Oriented Programming  
 
-### 🔹 🔗 **[dsa-practice](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice)**   
+### **[🔹 dsa-practice](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice)**   
 **Week 3:** Data Structures & Algorithms  
 
 ---
