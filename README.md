@@ -105,8 +105,8 @@ Focused on strengthening **searching algorithm fundamentals (Linear Search & Bin
 - Completed **Linear Search & Binary Search** practice
 - Implemented **4 real-world enterprise-level Java systems**  
 - Solved **1 LeetCode problem**  
- 
-🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-4)** : Leetcode problems      
+
+ 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/searching)** : searching problems      
 
 ### 📌 Key Takeaway:
 Developed strong hands-on understanding of searching algorithms and enterprise-level object-oriented system design by implementing scalable, modular, and real-world Java applications.
@@ -126,13 +126,30 @@ Focused on strengthening **Runtime Analysis & Big-O Notation** by implementing J
 
 ### Work Done:
 - Completed **Big-O Notation & complexity** practice
- 
-🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-4)** : Leetcode problems      
+
+ 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/algorithmsoptimization)** : Big-O problems  
 
 ### 📌 Key Takeaway:
 Developed strong hands-on understanding of Runtime Analysis & Big-O Notation and enterprise-level object-oriented system design by implementing scalable, modular, and real-world Java applications.
 
 ---
 
+# 🧩 Scenario-Based Problems
 
+## 🗓 Day 6 – Scenario-Based Practice
+**Date: 10-Jan-2026**
+
+Focused on strengthening dsa practice problems by implementing advanced scenario-based Java applications while following professional coding standards.
+
+### Scenario Based Systems Implemented:
+1. BookShelf – Library Organizer
+2. BrowserBuddy – Tab History Manager
+3. AmbulanceRoute – Emergency Patient Navigation
+
+### Work Done:
+- Implemented 3 real-world scenario Java problems
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioProblems/src/com/day1)** : Scenario Based Programs
+
+### 📌 Key Takeaway:
+- Developed strong hands-on understanding of dsa-practice problems by implementing scalable, modular, and real-world Java applications.
 
