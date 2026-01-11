@@ -308,5 +308,15 @@ Developed strong hands-on understanding of enterprise-level object-oriented syst
 
 ---
 
+# 🧩 Leetcode-Based Problems
 
+## 🗓 Day 7 – LeetCode-based Practice  
+**(Date: 11-01-2026)**
+
+- Practiced 1 problem.
+- Followed best programming practices.
+- Committed and pushed all solutions.    
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/leet-code-codebase/leetcode-day-1)** : Leetcode-Based problems
+
+---
 
