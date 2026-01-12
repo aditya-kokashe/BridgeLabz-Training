@@ -815,6 +815,27 @@ Improved my confidence in solving real coding interview problems by practicing l
 
 ---
 
+## 🗓 Day 10 – Scenario-based problems  
+**Date: 12-Jan-2026**
+
+Focused on strengthening **dsa and oops practice problems** by implementing advanced scenario-based Java applications while following professional coding standards.
+
+### Scenario Based Systems Implemented:
+- CallCenter – Customer Queue Manager  
+- TrainCompanion – Compartment Navigation System
+- TextEditor – Undo/Redo Functionality
+- TrafficManager – Roundabout Vehicle Flow
+- HomeNest – Smart Home Device Manager
+- BudgetWise – Personal Finance Tracker
+- GameBox – Mobile Game Distribution Platform  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day8)** : OOPS Scenario Based Programs      
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioProblems/src/com/day2)** : DSA Scenario Based Programs     
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of dsa-practice problems by implementing scalable, modular, and real-world Java applications.
+
+---
 
 
 
