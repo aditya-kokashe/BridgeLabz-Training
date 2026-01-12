@@ -1,0 +1,22 @@
+package com.day8.HomeNest;
+
+public class Lock extends Device {
+
+    public Lock(String deviceId) {
+        super(deviceId, 2.0);
+    }
+
+    public void turnOn() {
+        setStatus(true);
+        System.out.println("Lock engaged");
+    }
+
+    public void turnOff() {
+        setStatus(false);
+        System.out.println("Lock disengaged");
+    }
+
+    public void reset() {
+        System.out.println("Lock reset to factory settings");
+    }
+}
