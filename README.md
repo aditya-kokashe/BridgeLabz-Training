@@ -77,12 +77,7 @@ BridgeLabz-Training/
 - Designed the project folder structure for Java practice:
 
 ### Git Commands Learned:
-- `git init`
-- `git clone`
-- `git add`
-- `git commit`
-- `git push`
-- `git rebase`
+- `git init` `git clone` `git add` `git commit` `git push` `git rebase`
 
 ### 📌 Key Takeaway:
 Understood the importance of version control and how GitHub helps in tracking changes and managing code efficiently.
