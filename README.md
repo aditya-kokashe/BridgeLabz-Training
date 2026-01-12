@@ -10,17 +10,17 @@ Focused on strengthening **Linked List data structure fundamentals** by implemen
 BridgeLabz-Training/
 │── 📁 dsa-practice/
 │ 	│── 📁 gcr-codebase/
-|   |   |── 📁 DSAConcepts/
+|   |   |── 📁 JavaDsaPractice/
 |   |       |── 📁 src/
 |   |           |── 📁 com/
-|   |               |── 📁 linkedlists/
-|   |               |── 📁 stacks/
-|   |               |── 📁 queues/
-|   |               |── 📁 hashmaps/
+|   |               |── 📁 linkedlist/
+|   |               |── 📁 stacksandqueues/
+|   |               |── 📁 hashmapsandfunctions/
 |   |               |── 📁 sorting/
-|   |
-│ 	│── 📁 leet-code-codebase/
+|   |               |── 📁 searching/
+|   |               |── 📁 algorithmsoptimization/       
 │ 	│── 📁 scenario-based-codebase/
+│ 	│── 📁 leet-code-codebase/
 │── README.md
 ```
 ### Work Done:
@@ -152,6 +152,27 @@ Focused on strengthening dsa practice problems by implementing advanced scenario
 
 ### 📌 Key Takeaway:
 - Developed strong hands-on understanding of dsa-practice problems by implementing scalable, modular, and real-world Java applications.
+
+---
+
+## 🗓 Day 7 – Scenario-Based Practice
+**Date: 12-Jan-2026**
+
+Focused on strengthening dsa practice problems by implementing advanced scenario-based Java applications while following professional coding standards.
+
+### Scenario Based Systems Implemented:    
+1. CallCenter – Customer Queue Manager    
+2. TrainCompanion – Compartment Navigation System    
+3. TextEditor – Undo/Redo Functionality    
+4. TrafficManager – Roundabout Vehicle Flow    
+
+### Work Done:
+- Implemented 4 real-world scenario Java problems      
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioProblems/src/com/day2)** : Scenario Based Programs    
+
+### 📌 Key Takeaway:
+- Developed strong hands-on understanding of dsa-practice problems by implementing scalable, modular, and real-world Java applications.
+
 
 ---
 
