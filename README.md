@@ -25,11 +25,12 @@ BridgeLabz-Training/
 ```
 
 ### Git Commands Learned:
-- `git init`, `git clone`, `git add`, `git commit`, `git push`, `git rebase`
+- `git init`  `git clone`  `git add`  `git commit`  `git push`  `git rebase`
 
 ### Key Takeaway:
 Understood the importance of version control and how GitHub helps in tracking changes and managing code efficiently.
 
+---
 
 ## 🗓 Day 2 – Git Practice & Basic Java Programs  
 **Date: 16-Dec-2025**
@@ -322,7 +323,7 @@ Understood the importance of version control and how GitHub helps in tracking ch
 ## 🗓 Day 14 – LeetCode-based Practice  
 **(Date: 30-Dec-2025)**
 
-- Practiced 2 problems.
+- Practiced 3 problems.
 - Followed best programming practices.
 - Committed and pushed all solutions.     
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-3)** : Leetcode-Based problems
