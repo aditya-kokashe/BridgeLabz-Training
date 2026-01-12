@@ -808,7 +808,7 @@ Focused on strengthening **problem-solving skills and logical thinking** by solv
 - Practiced logic building and algorithmic thinking  
 - Tested, committed, and pushed all solutions to GitHub  
 
-🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/leet-code-codebase/leetcode-day-1)** : LeetCode Problem Solving
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase/leetcode-day-1)** : LeetCode Problem Solving
 
 ### 📌 Key Takeaway:
 Improved my confidence in solving real coding interview problems by practicing logical thinking, edge-case handling, and writing clean Java solutions.
