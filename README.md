@@ -13,14 +13,13 @@ BridgeLabz-Training/
 │   │       │── 📁 src/
 │   │           │── 📁 com/
 │   │               │── 📁 classandobject/
-│   │               │── 📁 constructors/
-│   │               │── 📁 finalandstatic/
+│   │               │── 📁 constructor/
 │   │               │── 📁 objectmodeling/
 │   │               │── 📁 inheritance/
-│   │               │── 📁 encapsulation/
-|   |   
-│   │── 📁 leet-code-codebase/
-│   │── 📁 scenario-based-codebase/
+│   │               |── 📁 keywordandoperator/
+│   │               │── 📁 encapsulationandpolymorphism/  
+│   │── 📁 scenario-based-codebase/   
+│   │── 📁 leet-code-codebase/   
 │── .gitignore
 │── README.md
 ```
@@ -308,15 +307,33 @@ Developed strong hands-on understanding of enterprise-level object-oriented syst
 
 ---
 
+## 🗓 Day 14 – Scenario-Based Practice  
+**Date: 12-Jan-2026**
+
+### Scenario Based Systems Implemented:
+- HomeNest – Smart Home Device Manager  
+- BudgetWise – Personal Finance Tracker
+- GameBox – Mobile Game Distribution Platform   
+
+### Work Done:
+- Implemented **3 real-world enterprise-level Java systems**   
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day8)** : Scenario Based Programs     
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of enterprise-level object-oriented system design by implementing scalable, modular, and real-world Java applications.
+
+---
+
 # 🧩 Leetcode-Based Problems
 
 ## 🗓 Day 7 – LeetCode-based Practice  
-**(Date: 11-01-2026)**
+**(Date: 12-01-2026)**
 
 - Practiced 1 problem.
 - Followed best programming practices.
 - Committed and pushed all solutions.    
-🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/leet-code-codebase/leetcode-day-1)** : Leetcode-Based problems
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/leetcode-day-1)** : Leetcode-Based problems     
 
 ---
 
