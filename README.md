@@ -832,6 +832,23 @@ Developed strong hands-on understanding of dsa-practice problems by implementing
 
 ---
 
+## 🗓 Day 11 – Scenario-based problems  
+**Date: 13-Jan-2026**
+
+Focused on strengthening **dsa and oops practice problems** by implementing advanced scenario-based Java applications while following professional coding standards.
+
+### Scenario Based Systems Implemented:
+- SmartCheckout – Supermarket Billing Queue  
+- ParcelTracker – Delivery Chain Management
+- ExamProctor – Online Exam Review System
+- PayXpress – Utility Bill Payment System
+- Bird Sanctuary  
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of dsa-practice problems by implementing scalable, modular, and real-world Java applications.
+
+---
+
 
 
 
