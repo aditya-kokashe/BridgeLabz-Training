@@ -824,7 +824,7 @@ Focused on strengthening **dsa and oops practice problems** by implementing adva
 - BudgetWise – Personal Finance Tracker
 - GameBox – Mobile Game Distribution Platform  
 
-🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day8)** : OOPS Scenario Based Programs      
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day8)** : OOPS Scenario Based Programs     
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioProblems/src/com/day2)** : DSA Scenario Based Programs     
 
 ### 📌 Key Takeaway:
@@ -843,6 +843,8 @@ Focused on strengthening **dsa and oops practice problems** by implementing adva
 - ExamProctor – Online Exam Review System
 - PayXpress – Utility Bill Payment System
 - Bird Sanctuary  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioProblems/src/com/day3)** : DSA Scenario Based Programs   
 
 ### 📌 Key Takeaway:
 Developed strong hands-on understanding of dsa-practice problems by implementing scalable, modular, and real-world Java applications.
