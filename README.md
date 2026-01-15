@@ -844,14 +844,32 @@ Focused on strengthening **dsa and oops practice problems** by implementing adva
 - PayXpress – Utility Bill Payment System
 - Bird Sanctuary  
 
-🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioProblems/src/com/day3)** : DSA Scenario Based Programs   
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioProblems/src/com/day3)** : DSA Scenario Based Programs     
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day9)** : OOPS Scenario Based Programs   
 
 ### 📌 Key Takeaway:
 Developed strong hands-on understanding of dsa-practice problems by implementing scalable, modular, and real-world Java applications.
 
 ---
 
+## 🗓 Day 12 – Scenario-based problems  
+**Date: 15-Jan-2026**
 
+Focused on strengthening **dsa practice problems** by implementing advanced scenario-based Java applications while following professional coding standards.
+
+### Scenario Based Systems Implemented:
+- HospitalQueue – Patient Sorting by Criticality   
+- SmartShelf – Real-Time Book Arrangement
+- ZipZipMart – Daily Sales Summary Report
+- EventManager – Ticket Price Optimizer
+- ExamCell – Student Rank Generator 
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioProblems/src/com/day4)** : DSA Scenario Based Programs   
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of dsa-practice problems by implementing scalable, modular, and real-world Java applications.
+
+---
 
 
 
