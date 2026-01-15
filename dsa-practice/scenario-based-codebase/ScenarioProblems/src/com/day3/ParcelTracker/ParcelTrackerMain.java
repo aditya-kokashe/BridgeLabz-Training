@@ -5,15 +5,12 @@ public class ParcelTrackerMain {
 	public static void main(String[] args) {
 		
 		ParcelTracker p = new ParcelTracker();
-		
-		p.add("Packed");
-		p.add("Shipped");
-		p.add("In Transit");
-		p.add("Delivered");
-
+		p.defaultChain();
+		p.customAdd("Shipped", "Check");
+//		p.chainBreak("In Transit");
 		p.display();
-		p.checkpoint("Shipped");
-		p.checkpoint("Delivered");
+		p.checkpoint();
+		
 	}
 
 }

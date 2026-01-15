@@ -3,41 +3,79 @@ package com.day3.ParcelTracker;
 public class ParcelTracker {
 	
 	CourierNode head;
-	boolean isLost = false;
 	
-	public void add(String status) {
-		CourierNode n = new CourierNode(status);
+	public void defaultChain() {
+		CourierNode first = new CourierNode("Packed"); 
+		CourierNode second = new CourierNode("Shipped"); 
+		CourierNode third = new CourierNode("In Transit"); 
+		CourierNode last = new CourierNode("Delivered"); 
+		
+		head = first;
+		first.nextStage = second;
+		second.nextStage = third;
+		third.nextStage = last;
+		
+	}
+	
+	public void customAdd(String existingStage , String newStage) {
+		CourierNode n = new CourierNode(newStage);
 		if (head == null) {
 			head = n;
 			return;
 		}
 		else {
-			CourierNode current = head;
-			while(current.nextStage != null) {
-				current = current.nextStage;
+			CourierNode temp = head;
+			while(temp != null) {
+				if(existingStage.equals(temp.status)) {
+					CourierNode current = temp.nextStage;
+					temp.nextStage = n;
+					n.nextStage = current;
+					return;
+				}
+				temp = temp.nextStage;
 			}
-			current.nextStage = n;
+			
 		}
 	}
 	
-	public void checkpoint(String status) {
-		if(!isLost) {
-			System.out.println("\nParcel "+status+", checking complete!");
+	public void checkpoint() {
+		CourierNode temp = head;
+		
+		while(temp != null) {
+			if(temp.status.equals("Delivered")) {
+				System.out.println("\nParcel is successfully delivered!");
+				return;
+			}
+			temp = temp.nextStage;
 		}
+		System.out.print("\nParcel is missing\n");
+	}
+	
+	public void chainBreak(String status) {
+		CourierNode temp = head;
+		while(temp != null) {
+			if(temp.status.equals(status)) {
+				temp.nextStage = null;
+				return;
+		
+			}
+			temp = temp.nextStage;
+		}
+		
 	}
 	
 	public void display() {
 		CourierNode temp = head;
-		if(isLost) {
-			System.out.println("Parcel is missing.");
-		}else {
-			while(temp != null) {
-				System.out.print(temp+ " -> ");
-				temp = temp.nextStage;
+		
+		while(temp != null) {
+			System.out.print(temp.status);
+			if(temp.nextStage != null) {
+				System.out.print(" -> ");
 			}
-			System.out.print("Null");
-			System.out.println();
+			temp = temp.nextStage;
 		}
+		System.out.println();
+		
 	}
 	
 }
