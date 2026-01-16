@@ -852,10 +852,22 @@ Developed strong hands-on understanding of dsa-practice problems by implementing
 
 ---
 
-## 🗓 Day 12 – Scenario-based problems  
+# Week 4: Java Collections & Stream
+
+## 🗓 Day 1 – Java Generics  
 **Date: 15-Jan-2026**
 
-Focused on strengthening **dsa practice problems** by implementing advanced scenario-based Java applications while following professional coding standards.
+Focused on strengthening **Java Generics concepts** by understanding type safety, reusable code design, and generic classes and methods while following professional coding standards.
+
+### What I practiced today:   
+- Java Generics Fundamentals:   
+  - Understanding the need for Generics  
+  - Type safety at compile time  
+  - Avoiding ClassCastException  
+- Generic Classes & Methods:   
+  - Creating generic classes  
+  - Defining generic methods  
+  - Using type parameters effectively  
 
 ### Scenario Based Systems Implemented:
 - HospitalQueue – Patient Sorting by Criticality   
@@ -867,12 +879,8 @@ Focused on strengthening **dsa practice problems** by implementing advanced scen
 🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioProblems/src/com/day4)** : DSA Scenario Based Programs   
 
 ### 📌 Key Takeaway:
-Developed strong hands-on understanding of dsa-practice problems by implementing scalable, modular, and real-world Java applications.
+Developed a clear understanding of how Java Generics improve code reusability, type safety, and maintainability in large-scale applications.
 
 ---
-
-
-
-
 
 
