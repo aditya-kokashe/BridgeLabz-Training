@@ -19,6 +19,9 @@ The training is organized into structured branches covering different aspects of
 ### **[🔹 dsa-practice](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice)**   
 **Week 3:** Data Structures & Algorithms  
 
+### **[🔹 java-collections-practice](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-collections-practice)**   
+**Week 4:** Java Collections & Stream  
+
 ---
 
 ## 📁Project Structure
@@ -70,7 +73,7 @@ BridgeLabz-Training/
 # Week 1: Core Java Programming
 
 <details>
-<summary>Expand : Day wise</summary>
+<summary>Expand🔹Day wise</summary>
 
 ## 🗓 Day 1 – Git & GitHub Setup  
 **Date: 15-Dec-2025**
@@ -328,7 +331,7 @@ Improved problem-solving skills by applying core Java concepts to real-world sce
 # Week 2: Object-Oriented Programming
 
 <details>
-<summary>Expand : Day wise</summary>
+<summary>Expand🔹Day wise</summary>
 
 ## 🗓 Day 1 – Object-oriented Programming Fundamental 
 **Date: 26-Dec-2025**
@@ -570,7 +573,7 @@ Developed a strong understanding of data hiding, abstraction, and polymorphism b
 # Week 3: Data Structures & Algorithms
 
 <details>
-<summary>Expand : Day wise</summary>
+<summary>Expand🔹Day wise</summary>
 
 ## 🗓 Day 1 – Linked List, Helper Methods & Real-World OOPS Design  
 **Date: 02-Jan-2026**
@@ -870,7 +873,7 @@ Developed strong hands-on understanding of dsa-practice problems by implementing
 # Week 4: Java Collections & Stream
 
 <details>
-<summary>Expand : Day wise</summary>
+<summary>Expand🔹Day wise</summary>
 
 ## 🗓 Day 1 – Java Generics  
 **Date: 15-Jan-2026**
@@ -945,13 +948,11 @@ Focused on strengthening **dsa practice problems** by implementing advanced scen
 ### 📌 Key Takeaway:
 Developed strong hands-on understanding of dsa-practice problems by implementing scalable, modular, and real-world Java applications.
 
----
-
 </details>
 
 ---
 
-### Best Programming Practices Followed:   
+## 📌 Best Programming Practices Followed:   
 - Used meaningful variable and method names  
 - Avoided raw types and used generics where applicable  
 - Followed proper indentation and readability standards  
