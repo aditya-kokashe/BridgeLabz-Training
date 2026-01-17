@@ -911,6 +911,23 @@ Developed a strong understanding of how Java Collections provide flexible, effic
 
 ---
 
+## 🗓 Day 3 – Scenario based problems  
+**Date: 17-Jan-2026**
+
+Focused on strengthening **dsa practice problems** by implementing advanced scenario-based Java applications while following professional coding standards.      
+
+### Scenario Based Systems Implemented:   
+- ArtExpo – Sort Artists by Registration Time   
+- FleetManager – Vehicle Maintenance Scheduler   
+- IceCreamRush – Sorting Flavors by Popularity   
+- SmartLibrary – Auto-Sort Borrowed Books         
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioProblems/src/com/day6)** : DSA Scenario Based Programs    
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of dsa-practice problems by implementing scalable, modular, and real-world Java applications.
+
+---
 
 
 
