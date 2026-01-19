@@ -30,3 +30,31 @@ Focused on strengthening **Java Generics concepts** by understanding type safety
 Developed a clear understanding of how Java Generics improve code reusability, type safety, and maintainability in large-scale applications.
 
 ---    
+
+## 🗓 Day 2 – Java Collections Framework  
+**Date: 16-Jan-2026**
+
+Focused on strengthening **Java Collections Framework concepts** by understanding dynamic data storage, collection interfaces, and commonly used collection classes while following professional coding standards.
+
+### What I practiced today:   
+- Java Collections Overview:   
+  - Understanding the need for Collections  
+  - Collection framework hierarchy  
+- List Implementations:   
+  - ArrayList usage and operations  
+  - LinkedList basics and traversal  
+- Set & Map Concepts:   
+  - Understanding Set for unique elements  
+  - HashSet behavior and use cases  
+
+### Scenario Based Systems Implemented:
+- RoboWarehouse – Shelf Loading Robot
+- CinemaHouse – Movie Time Sorting
+- CropMonitor – Sensor Data Ordering 
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioProblems/src/com/day5)** : DSA Scenario Based Programs   
+
+### 📌 Key Takeaway:
+Developed a strong understanding of how Java Collections provide flexible, efficient, and dynamic data handling compared to traditional arrays.
+
+---
