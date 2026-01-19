@@ -965,6 +965,20 @@ Developed strong hands-on understanding of oops-practice problems by implementin
 
 ---
 
+## 🗓 Day 5 – Java Streams     
+**Date: 19-Jan-2026**
+
+Focused on strengthening **Java Streams** by implementing advanced scenario-based Java applications while following professional coding standards.      
+ 
+### Scenario Based Systems Implemented:   
+- EduResults – Rank Sheet Generator    
+- FlashDealz – Product Sorting by Discount
+- FitnessTracker – Daily Step Count Ranking
+- DigiContact    
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of oops-practice problems by implementing scalable, modular, and real-world Java applications.
+
 </details>
 
 ---
