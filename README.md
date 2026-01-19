@@ -949,6 +949,22 @@ Focused on strengthening **dsa practice problems** by implementing advanced scen
 ### 📌 Key Takeaway:
 Developed strong hands-on understanding of dsa-practice problems by implementing scalable, modular, and real-world Java applications.
 
+---
+
+## 🗓 Day 4 – Scenario based problems  
+**Date: 18-Jan-2026**
+
+Focused on strengthening **Oops practice problems** by implementing advanced scenario-based Java applications while following professional coding standards.      
+
+### Scenario Based Systems Implemented:   
+- GeoMeasure Solutions
+- Bag-n-Ball Organizer   
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of oops-practice problems by implementing scalable, modular, and real-world Java applications.
+
+---
+
 </details>
 
 ---
