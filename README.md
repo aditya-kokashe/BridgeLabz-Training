@@ -993,6 +993,38 @@ Focused on strengthening **Java Streams API concepts** by understanding function
 ### 📌 Key Takeaway:
 Developed a strong understanding of how Java Streams simplify data processing, improve code readability, and enable functional-style programming in Java.
 
+---
+
+## 🗓 Day 6 – Java Exceptions & Error Handling     
+**Date: 20-Jan-2026**
+
+Focused on strengthening **Java Exception Handling concepts** by understanding runtime errors, handling exceptional scenarios gracefully, and writing robust and fault-tolerant Java programs while following professional coding standards.
+
+### What I practiced today:   
+- Java Exception Fundamentals:   
+  - Understanding exceptions and errors  
+  - Difference between checked and unchecked exceptions  
+  - Common runtime exceptions  
+- Exception Handling Mechanisms:   
+  - Using `try`, `catch`, and `finally` blocks  
+  - Handling multiple catch blocks  
+  - Proper resource cleanup  
+- Custom Exceptions:   
+  - Creating user-defined exceptions  
+  - Throwing exceptions using `throw`  
+  - Propagating exceptions using `throws`  
+
+### Scenario Based Systems Implemented:   
+- MovieTime – Theater Show Listings    
+- FoodFest – Sorting Stalls by Customer Footfall
+- GamerZone – High Score Ranking System
+- FlipKey     
+
+### 📌 Key Takeaway:
+Developed a solid understanding of exception handling in Java and learned how to write robust, maintainable, and error-resilient programs.
+
+---
+
 </details>
 
 ---
