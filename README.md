@@ -1053,6 +1053,33 @@ Developed a strong understanding of input validation using regex and learned how
 
 ---
 
+## 🗓 Day 8 – Java Annotations & Reflection  
+**Date: 22-Jan-2026**
+
+Focused on strengthening **Java Annotations and Reflection concepts** by understanding metadata usage, runtime inspection of classes, and dynamic behavior in Java programs while following professional coding standards.
+
+### What I practiced today:   
+- Java Annotations:   
+  - Understanding the purpose of annotations  
+  - Using built-in annotations like `@Override`, `@Deprecated`, and `@SuppressWarnings`  
+  - Creating custom annotations  
+  - Applying annotations at class, method, and field level  
+- Java Reflection:   
+  - Understanding reflection and its use cases  
+  - Inspecting classes, methods, fields, and constructors at runtime  
+  - Accessing private members using reflection  
+  - Dynamic object creation and method invocation  
+
+### Scenario Based Systems Implemented:   
+- Gaming App - Real-Time Leaderboard
+- Online Ticket Booking by Time
+- Hospital Queue Management 
+
+### 📌 Key Takeaway:
+Developed a solid understanding of how annotations provide metadata and how reflection enables dynamic inspection and execution of Java code at runtime.
+
+---
+
 </details>
 
 ---
