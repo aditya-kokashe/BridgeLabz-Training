@@ -1025,6 +1025,34 @@ Developed a solid understanding of exception handling in Java and learned how to
 
 ---
 
+## 🗓 Day 7 – Regular Expressions (Regex) & JUnit Testing  
+**Date: 21-Jan-2026**
+
+Focused on strengthening **Regular Expressions and JUnit testing concepts** by validating input patterns and writing unit tests to ensure correctness and reliability of Java programs while following professional coding standards.
+
+### What I practiced today:   
+- Regular Expressions (Regex):   
+  - Understanding regex patterns and syntax  
+  - Validating user inputs such as names, email IDs, and passwords  
+  - Using quantifiers, character classes, and anchors  
+- JUnit Testing:   
+  - Understanding the importance of unit testing  
+  - Writing test cases using JUnit  
+  - Using annotations like `@Test`, `@BeforeEach`, and `@AfterEach`  
+  - Validating expected vs actual results
+
+### Scenario Based Systems Implemented:   
+- TailorShop – Sorting Orders by Delivery Deadline    
+- MedWarehouse – Sorting Medicines by Expiry
+- University's Digital Record System
+- E-Commerce Product Inventory
+- Music App - Organize Songs by Track ID   
+
+### 📌 Key Takeaway:
+Developed a strong understanding of input validation using regex and learned how unit testing with JUnit helps in building reliable and maintainable Java applications.
+
+---
+
 </details>
 
 ---
