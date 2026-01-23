@@ -1082,6 +1082,37 @@ Developed a solid understanding of how annotations provide metadata and how refl
 
 </details>
 
+# Week 5: IO Programming
+
+<details>
+<summary>Expand🔹Day wise</summary>
+
+## 🗓 Day 1 – CSV Data Handling  
+**Date: 23-Jan-2026**
+
+Focused on strengthening **CSV data handling concepts in Java** by reading, writing, and processing structured data files while following professional coding standards.
+
+### What I practiced today:   
+- CSV File Handling Basics:   
+  - Understanding CSV file structure  
+  - Reading CSV files line by line  
+  - Writing data into CSV files  
+- Data Parsing & Processing:   
+  - Splitting CSV records into fields  
+  - Converting string data into appropriate data types  
+  - Validating and cleaning CSV data  
+- Java File Handling Concepts:   
+  - Using file I/O classes for data handling  
+  - Handling exceptions during file operations  
+  - Ensuring proper resource management  
+
+### 📌 Key Takeaway:
+Developed a strong understanding of how to handle structured CSV data in Java and learned effective techniques for reading, writing, and processing file-based data.
+
+---
+
+</details>
+
 ---
 
 ## 📌 Best Programming Practices Followed:   
