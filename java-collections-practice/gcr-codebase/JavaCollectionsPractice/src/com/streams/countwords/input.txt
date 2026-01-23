@@ -1,0 +1,3 @@
+Java is powerful.
+Java is fast.
+Java is popular.
