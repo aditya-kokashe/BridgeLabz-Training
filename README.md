@@ -1111,6 +1111,30 @@ Developed a strong understanding of how to handle structured CSV data in Java an
 
 ---
 
+## 🗓 Day 2 – JSON Data Handling  
+**Date: 24-Jan-2026**
+
+Focused on strengthening **JSON data handling concepts in Java** by reading, writing, and processing structured JSON data while following professional coding standards.
+
+### What I practiced today:   
+- JSON Fundamentals:   
+  - Understanding JSON structure (objects, arrays, key-value pairs)  
+  - Difference between CSV and JSON data formats  
+  - Use cases of JSON in real-world applications  
+- JSON Parsing & Processing:   
+  - Reading JSON data from files  
+  - Extracting and processing JSON objects and arrays  
+  - Converting JSON data into Java objects  
+- Java File Handling & Error Management:   
+  - Handling file I/O operations safely  
+  - Managing parsing exceptions  
+  - Ensuring proper resource handling   
+
+### 📌 Key Takeaway:
+Developed a strong understanding of JSON data handling in Java and learned how structured data is parsed, processed, and mapped effectively in real-world applications.
+
+---
+
 </details>
 
 ---
