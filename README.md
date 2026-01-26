@@ -1075,6 +1075,9 @@ Focused on strengthening **Java Annotations and Reflection concepts** by underst
 - Online Ticket Booking by Time
 - Hospital Queue Management 
 
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotations)** : Java Annotations         
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflections)** : Java Reflection       
+
 ### 📌 Key Takeaway:
 Developed a solid understanding of how annotations provide metadata and how reflection enables dynamic inspection and execution of Java code at runtime.
 
