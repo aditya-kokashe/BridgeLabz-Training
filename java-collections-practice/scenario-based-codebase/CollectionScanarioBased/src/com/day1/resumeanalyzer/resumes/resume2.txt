@@ -1,0 +1,4 @@
+name : ajay
+skill : java, PostgresSql
+email : ajay@gmail.com
+phone : 1234567890
