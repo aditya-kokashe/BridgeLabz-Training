@@ -22,6 +22,9 @@ The training is organized into structured branches covering different aspects of
 ### **[🔹 java-collections-practice](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-collections-practice)**   
 **Week 4:** Java Collections & Stream  
 
+### **[🔹 java-iostreams-practice](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-iostreams-practice)**   
+**Week 4:** IO Programming  
+
 ---
 
 ## 📁Project Structure
@@ -1108,6 +1111,8 @@ Focused on strengthening **CSV data handling concepts in Java** by reading, writ
   - Using file I/O classes for data handling  
   - Handling exceptions during file operations  
   - Ensuring proper resource management  
+
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamsPractice/src/com/csvdatahandling)** : CSV Data Handling              
 
 ### 📌 Key Takeaway:
 Developed a strong understanding of how to handle structured CSV data in Java and learned effective techniques for reading, writing, and processing file-based data.
