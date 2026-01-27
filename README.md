@@ -23,7 +23,7 @@ The training is organized into structured branches covering different aspects of
 **Week 4:** Java Collections & Stream  
 
 ### **[🔹 java-iostreams-practice](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-iostreams-practice)**   
-**Week 4:** IO Programming  
+**Week 5:** IO Programming  
 
 ---
 
