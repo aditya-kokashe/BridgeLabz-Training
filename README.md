@@ -1051,6 +1051,8 @@ Focused on strengthening **Regular Expressions and JUnit testing concepts** by v
 - E-Commerce Product Inventory
 - Music App - Organize Songs by Track ID   
 
+🔗 **[Assignment Link](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regex)** : Regular Expressions         
+
 ### 📌 Key Takeaway:
 Developed a strong understanding of input validation using regex and learned how unit testing with JUnit helps in building reliable and maintainable Java applications.
 
