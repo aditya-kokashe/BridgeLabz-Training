@@ -11,7 +11,7 @@ public class JsonToCsv {
         String jsonPath = "output/students.json";
         String csvPath  = "output/students.csv";
 
-        new File("data").mkdirs();
+        new File("output").mkdirs();
 
         try (
             BufferedReader br = new BufferedReader(new FileReader(jsonPath));
