@@ -1197,6 +1197,26 @@ Understood how functional interfaces form the foundation of Java 8 features and 
 
 --- 
 
+## 🗓 Day 3 – Stream API  
+**Date: 28-Jan-2026**
+
+Focused on strengthening **Java 8 Stream API concepts** by processing collections using functional-style operations and stream pipelines while following professional coding standards.
+
+### What I practiced today:   
+- Stream API Fundamentals:   
+  - Understanding streams and stream pipelines  
+  - Difference between collections and streams  
+  - Lazy evaluation in streams  
+
+- Stream Operations:   
+  - Intermediate operations: `filter()`, `map()`, `sorted()`  
+  - Terminal operations: `forEach()`, `collect()`, `reduce()`  
+
+### 📌 Key Takeaway:
+Developed a strong understanding of how Java Streams simplify data processing and enable clean, functional-style code.
+
+---
+
 </details>
 
 ---
