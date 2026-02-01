@@ -1241,6 +1241,41 @@ Learned how collectors help transform and aggregate stream data efficiently, mak
 
 </details>
 
+# Week 7: Solution Designing
+
+<details>
+<summary>Expand🔹Day wise</summary>
+
+## 🗓 Day 1 – Software Design Principles  
+**Date: 29-Jan-2026**
+
+Focused on strengthening **software design principles** by understanding how to design clean, maintainable, scalable, and flexible software systems while following professional coding and architectural standards.
+
+### What I practiced today:   
+- Core Design Principles:   
+  - Understanding the importance of good software design  
+  - Writing clean, readable, and maintainable code  
+  - Designing systems with low coupling and high cohesion  
+
+- SOLID Principles Overview:   
+  - Single Responsibility Principle (SRP)  
+  - Open/Closed Principle (OCP)  
+  - Liskov Substitution Principle (LSP)  
+  - Interface Segregation Principle (ISP)  
+  - Dependency Inversion Principle (DIP)  
+
+- Design Thinking:   
+  - Identifying responsibilities in a system  
+  - Separating concerns effectively  
+  - Designing for future changes and extensibility  
+
+### 📌 Key Takeaway:
+Developed a strong understanding of how software design principles help build robust, scalable, and maintainable systems and form the foundation for effective solution designing.
+
+---
+
+</details>
+
 ---
 
 ## 📌 Best Programming Practices Followed:   
