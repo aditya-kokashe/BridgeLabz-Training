@@ -1175,6 +1175,28 @@ Learned how lambda expressions simplify Java code and enable functional-style pr
 
 ---
 
+## 🗓 Day 2 – Functional Interfaces  
+**Date: 27-Jan-2026**
+
+Focused on strengthening **Functional Interfaces in Java 8** by understanding single abstract method interfaces and their role in lambda expressions while following professional coding standards.
+
+### What I practiced today:   
+- Functional Interface Concepts:   
+  - Understanding Single Abstract Method (SAM) interfaces  
+  - Using `@FunctionalInterface` annotation  
+  - Creating custom functional interfaces  
+
+- Built-in Functional Interfaces:   
+  - Predicate  
+  - Function  
+  - Consumer  
+  - Supplier  
+
+### 📌 Key Takeaway:
+Understood how functional interfaces form the foundation of Java 8 features and enable powerful functional-style programming with lambdas.
+
+--- 
+
 </details>
 
 ---
