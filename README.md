@@ -1217,6 +1217,28 @@ Developed a strong understanding of how Java Streams simplify data processing an
 
 ---
 
+# Week 6: Java 8 & Its Features
+
+## 🗓 Day 4 – Collectors  
+**Date: 28-Jan-2026**
+
+Focused on strengthening **Collectors in Java 8** by collecting, grouping, and transforming stream data into different data structures while following professional coding standards.
+
+### What I practiced today:   
+- Collectors Basics:   
+  - Understanding `Collectors` utility class  
+  - Using `toList()`, `toSet()`, `toMap()`  
+
+- Advanced Collectors:   
+  - Grouping and partitioning data  
+  - Counting, summing, and averaging elements  
+  - Collecting stream results efficiently  
+
+### 📌 Key Takeaway:
+Learned how collectors help transform and aggregate stream data efficiently, making Java 8 streams more powerful and expressive.
+
+---
+
 </details>
 
 ---
