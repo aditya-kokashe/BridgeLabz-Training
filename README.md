@@ -25,6 +25,12 @@ The training is organized into structured branches covering different aspects of
 ### **[🔹 java-iostreams-practice](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-iostreams-practice)**   
 **Week 5:** IO Programming  
 
+### **[🔹 java8-programmming-practice](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java8-programmming-practice)**   
+**Week 6:** Java 8 & Its Features
+
+### **[🔹 solution-desigining](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java8-programmming-practice)**   
+**Week 7:** Solution Designing
+
 ---
 
 ## 📁Project Structure
@@ -1149,7 +1155,7 @@ Developed a strong understanding of JSON data handling in Java and learned how s
 
 </details>
 
-# Week 6: Java 8 & Its Features
+# Week 6: java8-programmming-practice
 
 <details>
 <summary>Expand🔹Day wise</summary>
@@ -1220,7 +1226,7 @@ Developed a strong understanding of how Java Streams simplify data processing an
 # Week 6: Java 8 & Its Features
 
 ## 🗓 Day 4 – Collectors  
-**Date: 28-Jan-2026**
+**Date: 29-Jan-2026**
 
 Focused on strengthening **Collectors in Java 8** by collecting, grouping, and transforming stream data into different data structures while following professional coding standards.
 
@@ -1247,7 +1253,7 @@ Learned how collectors help transform and aggregate stream data efficiently, mak
 <summary>Expand🔹Day wise</summary>
 
 ## 🗓 Day 1 – Software Design Principles  
-**Date: 29-Jan-2026**
+**Date: 30-Jan-2026**
 
 Focused on strengthening **software design principles** by understanding how to design clean, maintainable, scalable, and flexible software systems while following professional coding and architectural standards.
 
@@ -1275,7 +1281,7 @@ Developed a strong understanding of how software design principles help build ro
 ---
 
 ## 🗓 Day 2 – Design Patterns  
-**Date: 30-Jan-2026**
+**Date: 31-Jan-2026**
 
 Focused on strengthening **design pattern concepts** by understanding reusable solutions to common software design problems and learning how to apply proven architectural patterns while following professional coding standards.
 
