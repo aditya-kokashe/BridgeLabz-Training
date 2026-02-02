@@ -28,9 +28,6 @@ The training is organized into structured branches covering different aspects of
 ### **[🔹 java8-programmming-practice](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java8-programmming-practice)**   
 **Week 6:** Java 8 & Its Features
 
-### **[🔹 solution-desigining](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java8-programmming-practice)**   
-**Week 7:** Solution Designing
-
 ---
 
 ## 📁Project Structure
@@ -1223,8 +1220,6 @@ Developed a strong understanding of how Java Streams simplify data processing an
 
 ---
 
-# Week 6: Java 8 & Its Features
-
 ## 🗓 Day 4 – Collectors  
 **Date: 29-Jan-2026**
 
@@ -1242,68 +1237,6 @@ Focused on strengthening **Collectors in Java 8** by collecting, grouping, and t
 
 ### 📌 Key Takeaway:
 Learned how collectors help transform and aggregate stream data efficiently, making Java 8 streams more powerful and expressive.
-
----
-
-</details>
-
-# Week 7: Solution Designing
-
-<details>
-<summary>Expand🔹Day wise</summary>
-
-## 🗓 Day 1 – Software Design Principles  
-**Date: 30-Jan-2026**
-
-Focused on strengthening **software design principles** by understanding how to design clean, maintainable, scalable, and flexible software systems while following professional coding and architectural standards.
-
-### What I practiced today:   
-- Core Design Principles:   
-  - Understanding the importance of good software design  
-  - Writing clean, readable, and maintainable code  
-  - Designing systems with low coupling and high cohesion  
-
-- SOLID Principles Overview:   
-  - Single Responsibility Principle (SRP)  
-  - Open/Closed Principle (OCP)  
-  - Liskov Substitution Principle (LSP)  
-  - Interface Segregation Principle (ISP)  
-  - Dependency Inversion Principle (DIP)  
-
-- Design Thinking:   
-  - Identifying responsibilities in a system  
-  - Separating concerns effectively  
-  - Designing for future changes and extensibility  
-
-### 📌 Key Takeaway:
-Developed a strong understanding of how software design principles help build robust, scalable, and maintainable systems and form the foundation for effective solution designing.
-
----
-
-## 🗓 Day 2 – Design Patterns  
-**Date: 31-Jan-2026**
-
-Focused on strengthening **design pattern concepts** by understanding reusable solutions to common software design problems and learning how to apply proven architectural patterns while following professional coding standards.
-
-### What I practiced today:   
-- Design Patterns Overview:   
-  - Understanding what design patterns are and why they are used  
-  - Difference between design principles and design patterns  
-  - Benefits of using patterns in large-scale applications  
-
-- Creational Design Patterns:   
-  - Singleton Pattern  
-  - Factory Pattern  
-  - Builder Pattern  
-  - Understanding object creation control  
-
-- Structural & Behavioral Patterns (Introduction):   
-  - Overview of Adapter, Decorator patterns  
-  - Introduction to Observer and Strategy patterns  
-  - Understanding when to apply each pattern  
-
-### 📌 Key Takeaway:
-Gained a strong understanding of how design patterns provide reusable, proven solutions to recurring design problems and help build scalable and maintainable software systems.
 
 ---
 
