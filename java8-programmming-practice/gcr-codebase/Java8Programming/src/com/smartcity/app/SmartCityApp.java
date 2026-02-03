@@ -15,7 +15,7 @@ public class SmartCityApp {
 
         System.out.println("Smart City Transport System Started\n");
 
-        /* ---------------- Transport Services ---------------- */
+        //Tansport Services
 
         List<TransportService> services = Arrays.asList(
             new BusService("A-B", 30, 540),
@@ -23,34 +23,34 @@ public class SmartCityApp {
             new AmbulanceService()
         );
 
-        /* ---------------- 1. Lambda Filtering & Sorting ---------------- */
+        //Lambda Filtering & Sorting 
 
-        System.out.println("Available Services (Cheapest First):");
+        System.out.println("Available Services:");
 
         services.stream()
                 .filter(s -> s.getFare() <= 50)
                 .sorted(Comparator.comparingInt(TransportService::getDepartureTime))
                 .forEach(TransportService::printServiceDetails);
 
-        /* ---------------- 2. Dashboard Update (forEach) ---------------- */
+        // Dashboard Update 
 
         System.out.println("\nLive Dashboard Update:");
         services.forEach(s ->
             System.out.println("Service Active: " + s.getServiceName())
         );
 
-        /* ---------------- 3. Functional Interface (Fare Calculator) ---------------- */
+        // Functional Interface
 
         FareCalculator taxiFare = distance -> distance * 12;
-        System.out.println("\nTaxi Fare for 10 km: ₹" + taxiFare.calculateFare(10));
+        System.out.println("\nTaxi Fare for 10 km: " + taxiFare.calculateFare(10));
 
-        /* ---------------- 4. Passenger Analytics (Streams + Collectors) ---------------- */
+        //Passenger Analytics 
 
         List<Passenger> passengers = Arrays.asList(
-            new Passenger("A-B", 30, true),
-            new Passenger("A-B", 30, false),
-            new Passenger("B-C", 40, true),
-            new Passenger("A-D", 120, false)
+            new Passenger("A-B", 50, true),
+            new Passenger("A-B", 20, false),
+            new Passenger("B-C", 120, true),
+            new Passenger("A-D", 100, false)
         );
 
         // Grouping by Route
@@ -77,10 +77,10 @@ public class SmartCityApp {
                           .collect(Collectors.summarizingDouble(Passenger::getFare));
 
         System.out.println("\nRevenue Report:");
-        System.out.println("Total Revenue: ₹" + revenueStats.getSum());
-        System.out.println("Average Fare: ₹" + revenueStats.getAverage());
+        System.out.println("Total Revenue: " + revenueStats.getSum());
+        System.out.println("Average Fare: " + revenueStats.getAverage());
 
-        /* ---------------- 5. Marker Interface Check ---------------- */
+        //Marker Interface Check 
 
         System.out.println("\nEmergency Service Detection:");
         services.forEach(service -> {
