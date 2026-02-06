@@ -1277,6 +1277,33 @@ Developed a strong understanding of how software design principles help build ro
 
 ---
 
+## 🗓 Day 2 – Design Patterns  
+**Date: 31-Jan-2026**
+
+Focused on strengthening **design pattern concepts** by understanding reusable solutions to common software design problems and learning how to apply proven architectural patterns while following professional coding standards.
+
+### What I practiced today:   
+- Design Patterns Overview:   
+  - Understanding what design patterns are and why they are used  
+  - Difference between design principles and design patterns  
+  - Benefits of using patterns in large-scale applications  
+
+- Creational Design Patterns:   
+  - Singleton Pattern  
+  - Factory Pattern  
+  - Builder Pattern  
+  - Understanding object creation control  
+
+- Structural & Behavioral Patterns (Introduction):   
+  - Overview of Adapter, Decorator patterns  
+  - Introduction to Observer and Strategy patterns  
+  - Understanding when to apply each pattern  
+
+### 📌 Key Takeaway:
+Gained a strong understanding of how design patterns provide reusable, proven solutions to recurring design problems and help build scalable and maintainable software systems.
+
+---
+
 </details>
 
 ---
