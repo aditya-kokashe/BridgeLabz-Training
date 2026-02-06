@@ -28,6 +28,9 @@ The training is organized into structured branches covering different aspects of
 ### **[🔹 java8-programmming-practice](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java8-programmming-practice)**   
 **Week 6:** Java 8 & Its Features
 
+### **[🔹 java-design-pattern-practice](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-design-pattern-practice)**   
+**Week 7:** Solution Designing 
+
 ---
 
 ## 📁Project Structure
