@@ -1245,8 +1245,6 @@ Learned how collectors help transform and aggregate stream data efficiently, mak
 
 </details>
 
----
-
 # Week 7: Solution Designing
 
 <details>
@@ -1307,6 +1305,30 @@ Gained a strong understanding of how design patterns provide reusable, proven so
 
 ---
 
+## 🗓 Day 3 – Java Multithreading  
+**Date: 02-Feb-2026**
+
+Focused on strengthening **Java multithreading concepts** by understanding concurrent execution, thread lifecycle, synchronization, and safe shared resource handling while following professional coding standards.
+
+### What I practiced today:   
+- Multithreading Fundamentals:   
+  - Understanding processes vs threads  
+  - Thread lifecycle and states  
+  - Creating threads using `Thread` class and `Runnable` interface  
+
+- Thread Management:   
+  - Using `start()` vs `run()`  
+  - Thread scheduling and priorities  
+  - Sleep and join methods
+    
+- Synchronization & Concurrency:   
+  - Race conditions and thread safety  
+  - Using `synchronized` keyword  
+  - Handling shared resources safely  
+
+### 📌 Key Takeaway:
+Developed a solid understanding of concurrent programming in Java and learned how to manage multiple threads safely using synchronization techniques.
+
 </details>
 
 ---
@@ -1315,4 +1337,5 @@ Gained a strong understanding of how design patterns provide reusable, proven so
 - Used meaningful variable and method names  
 - Avoided raw types and used generics where applicable  
 - Followed proper indentation and readability standards  
-- Wrote clean and modular collection handling code  
+- Wrote clean and modular collection handling code
+- Applied synchronization where necessary
