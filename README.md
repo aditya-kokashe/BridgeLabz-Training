@@ -31,6 +31,9 @@ The training is organized into structured branches covering different aspects of
 ### **[🔹 java-design-pattern-practice](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/java-design-pattern-practice)**   
 **Week 7:** Solution Designing 
 
+### **[🔹 mysql-jdbc-practice](https://github.com/aditya-kokashe/BridgeLabz-Training/tree/mysql-jdbc-practice)**   
+**Week 8:** MySQL & JDBC 
+
 ---
 
 ## 📁Project Structure
