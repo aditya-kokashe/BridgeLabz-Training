@@ -1334,6 +1334,80 @@ Developed a solid understanding of concurrent programming in Java and learned ho
 
 </details>
 
+</details>
+
+# Week 8: MySQL & JDBC
+
+<details>
+<summary>Expand🔹Day wise</summary>
+
+## 🗓 Day 1 – Introduction to MySQL & JDBC  
+**Date: 06-Feb-2026**
+
+Focused on understanding **database fundamentals and JDBC connectivity** by learning how Java applications interact with relational databases using SQL and JDBC APIs.
+
+### What I practiced today:
+- Introduction to relational databases
+- Understanding MySQL basics
+- JDBC architecture and workflow
+- Establishing database connections using JDBC
+- Executing basic SQL queries from Java
+
+### 📌 Key Takeaway:
+Developed a strong foundation in connecting Java applications with databases using JDBC and understanding how SQL operations integrate with backend logic.
+
+---
+
+## 🗓 Day 2 – MySQL Database Operations  
+**Date: 07-Feb-2026**
+
+Focused on strengthening **MySQL database operations** by working with tables, queries, and data manipulation commands used in real-world backend systems.
+
+### What I practiced today:
+- Creating databases and tables
+- INSERT, UPDATE, DELETE operations
+- SELECT queries and filtering data
+- Primary keys and constraints
+- Understanding normalization basics
+
+### 📌 Key Takeaway:
+Learned how structured database design and SQL operations form the backbone of backend application development.
+
+---
+
+## 🗓 Day 3 – JDBC CRUD Operations  
+**Date: 08-Feb-2026**
+
+Focused on implementing **CRUD operations using JDBC** by integrating Java applications with MySQL databases.
+
+### What I practiced today:
+- Executing SQL queries using JDBC
+- Performing Create, Read, Update, Delete operations
+- Using PreparedStatement for safe queries
+- Handling SQL exceptions
+- Managing database resources properly
+
+### 📌 Key Takeaway:
+Understood how JDBC enables secure and efficient interaction between Java applications and relational databases.
+
+---
+
+## 🗓 Day 4 – Collaborative Database Practice  
+**Date: 17-Feb-2026**
+
+Focused on collaborative learning by analyzing group discussions and practical database exercises related to MySQL and JDBC implementation.
+
+### What I practiced today:
+- Reviewing collaborative problem solutions
+- Understanding real-world database scenarios
+- Improving query writing and optimization
+- Discussing JDBC implementation patterns
+
+### 📌 Key Takeaway:
+Improved practical understanding of database design and JDBC integration through collaborative problem-solving and discussion.
+
+</details>
+
 ---
 
 ## 📌 Best Programming Practices Followed:   
